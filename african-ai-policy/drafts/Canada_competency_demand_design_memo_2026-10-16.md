@@ -1,0 +1,1 @@
+../papers/canada-competency-demand/design/Canada_competency_demand_design_memo_2026-10-16.md

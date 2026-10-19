@@ -19,6 +19,11 @@ PROJECT_ROOT = SRC_DIR.parent
 DATA_DIR = PROJECT_ROOT / "data"
 WHO_DIR = DATA_DIR / "who_strategy"
 NATIONAL_DIR = DATA_DIR / "national_strategies"
+# The African Union Continental AI Strategy now lives in its own folder, together
+# with the AU Digital Transformation Strategy comparator text. It is the regional
+# anchor for the primary analysis (not a national observation).
+AU_DIR = DATA_DIR / "AU_strategy"
+AU_STRATEGY_TXT = AU_DIR / "african_union_ai.txt"
 # Secondary corpus: dedicated digital-health / eHealth strategies. These are a
 # different document genre from national AI strategies and are analysed on a
 # separate track so they don't distort the apples-to-apples AI-strategy matrix.
@@ -89,11 +94,27 @@ COUNTRY_FILES: dict[str, str] = {
     "Benin": "benin_ai.txt",
     "Côte d'Ivoire": "cote_divoire_ai.txt",
     "Egypt": "egypt_ai.txt",
+    # EXCLUDED 2026-09-30: genre mismatch. Digital Ethiopia 2025 + 2030 Vision are
+    # general digital-transformation strategies, not a national AI strategy
+    # (AI-term density 1.87/1k words vs 19-46 for retained entries). Extract and
+    # PDFs archived in data/_excluded/; retained as a genre-contrast case.
+    # RE-INCLUDED 2026-10-14 (corpus v2, cut-off 30 Sep 2026): the AI-specific
+    # National Artificial Intelligence Policy (FDRE, June 2024; bilingual
+    # Amharic/English, Amharic stripped at extraction) replaces the Digital
+    # Ethiopia documents, which remain excluded in data/_excluded/.
     "Ethiopia": "ethiopia_ai.txt",
     "Ghana": "ghana_ai.txt",
     "Kenya": "kenya_ai.txt",
-    "Mauritius": "mauritius_ai.txt",
-    "Morocco": "morocco_ai.txt",
+    "Lesotho": "lesotho_ai.txt",        # ADDED 2026-10-16 (draft rule A): AI Policy and Implementation Plan, Second Draft (gov.ls, 2025)
+    "Mauritania": "mauritania_ai.txt",  # ADDED 2026-10-14: National AI Strategy 2025-2029 (EN, official domain)
+    "Mauritius": "mauritius_ai.txt",    # REPLACED 2026-10-14: AI for Mauritius 2025-2029 (2018 report -> data/_superseded/)
+    # EXCLUDED 2026-09-30: no full-text national AI strategy is publicly
+    # available. Morocco is referenced across official documents (Maroc IA 2030
+    # roadmap announced, no text released); the only analysable source is the
+    # conference-synthesis report of the Assises de l'IA (July 2025), which is
+    # not a national strategy document. Fails the genre rule, not the AI-
+    # integrality rule (its min-third AI density is 23.2/1k).
+    # "Morocco": "morocco_ai.txt",
     "Namibia": "namibia_ai.txt",
     "Nigeria": "nigeria_ai.txt",
     "Rwanda": "rwanda_ai.txt",
@@ -101,8 +122,9 @@ COUNTRY_FILES: dict[str, str] = {
     "South Africa": "south_africa_ai.txt",
     "Tanzania": "tanzania_ai.txt",
     "Tunisia": "tunisia_ai.txt",
+    "Zambia": "zambia_ai.txt",          # ADDED 2026-10-14: National AI Strategy 2024-2026 (Ministry of Technology and Science)
     "Zimbabwe": "zimbabwe_ai.txt",
-    "African Union": "african_union_ai.txt",  # continental regional anchor
+    "African Union": "african_union_ai.txt",  # continental regional anchor (data/AU_strategy/)
 }
 
 COUNTRIES: list[str] = list(COUNTRY_FILES.keys())
@@ -110,6 +132,8 @@ COUNTRIES: list[str] = list(COUNTRY_FILES.keys())
 
 def country_path(country: str) -> Path:
     """Absolute path to a country's strategy text file."""
+    if country == "African Union":
+        return AU_STRATEGY_TXT
     return NATIONAL_DIR / COUNTRY_FILES[country]
 
 

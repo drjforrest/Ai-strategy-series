@@ -1,0 +1,28 @@
+variant,dimension,pearson_r
+primary,Adaptability,0.029445534828958553
+primary,Data Availability,-0.2901039130090898
+primary,Digital Capacity,0.15978950974824133
+primary,Governance and Ethics,-0.05596663604316193
+primary,Human Capital,0.1731282841022199
+primary,Infrastructure,-0.30294330429722566
+primary,Innovation Capacity,-0.2664275033043316
+primary,Maturity,-0.055356146135104686
+primary,Vision,0.26664408509270987
+no_ZA,Adaptability,0.04534601340903383
+no_ZA,Data Availability,-0.3569301357565637
+no_ZA,Digital Capacity,0.15388713241536292
+no_ZA,Governance and Ethics,-0.2256367816613585
+no_ZA,Human Capital,0.17253501360366308
+no_ZA,Infrastructure,-0.3731739024192491
+no_ZA,Innovation Capacity,-0.24505789925422897
+no_ZA,Maturity,-0.19994679933513693
+no_ZA,Vision,0.3044102514691768
+no_drafts,Adaptability,-0.0072237818051268075
+no_drafts,Data Availability,-0.41441696143250645
+no_drafts,Digital Capacity,0.041753454463749264
+no_drafts,Governance and Ethics,-0.12175374184871003
+no_drafts,Human Capital,-0.1092243536619239
+no_drafts,Infrastructure,-0.4552832224231245
+no_drafts,Innovation Capacity,-0.2580631731409955
+no_drafts,Maturity,-0.14847276614784977
+no_drafts,Vision,0.3870817522806254

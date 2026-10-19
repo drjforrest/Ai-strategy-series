@@ -1,0 +1,518 @@
+host_institution,host_country,partner_institution,partner_country,direction,source_side
+MAKERERE UNIVERSITY COLLEGE OF HEALTH SCIENCES,Uganda,"University of California, San Francisco",United States,North-South,afr
+MAKERERE UNIVERSITY COLLEGE OF HEALTH SCIENCES,Uganda,Baylor College of Medicine,United States,North-South,afr
+EDUARDO MONDLANE UNIVERSITY,Mozambique,Tulane University,United States,North-South,afr
+JOS UNIVERSITY TEACHING HOSPITAL,Nigeria,Northwestern University,United States,North-South,afr
+JOS UNIVERSITY TEACHING HOSPITAL,Nigeria,University of Lagos,Nigeria,South-South,afr
+JOS UNIVERSITY TEACHING HOSPITAL,Nigeria,University of Jos,Nigeria,South-South,afr
+MOI UNIVERSITY COLLEGE OF HEALTH SCIENCES,Kenya,Indiana University,United States,North-South,afr
+KENYATTA  NATIONAL  HOSPITAL,Kenya,University of Washington,United States,North-South,afr
+KENYATTA  NATIONAL  HOSPITAL,Kenya,Kenya Ministry of Health,Kenya,South-South,afr
+MAKERERE UNIVERSITY COLLEGE OF HEALTH SCIENCES,Uganda,"University of California, San Francisco (UCSF)",United States,North-South,afr
+MAKERERE UNIVERSITY COLLEGE OF HEALTH SCIENCES,Uganda,"University of California, Berkeley (UC Berkeley)",United States,North-South,afr
+MAKERERE UNIVERSITY COLLEGE OF HEALTH SCIENCES,Uganda,New York University (NYU),United States,North-South,afr
+MAKERERE UNIVERSITY COLLEGE OF HEALTH SCIENCES,Uganda,Yale University,United States,North-South,afr
+MU-JHU CARE,Uganda,Johns Hopkins University,United States,North-South,afr
+MU-JHU CARE,Uganda,HHS Office of Research Integrity,United States,North-South,afr
+INFECTIOUS DISEASES INSTITUTE,Uganda,Texas Advanced Computing Center (TACC),United States,North-South,afr
+INSTITUTE OF HUMAN VIROLOGY,Nigeria,Institute of Human Virology at the University of Maryland Baltimore,United States,North-South,afr
+KENYA MEDICAL RESEARCH INSTITUTE (KEMRI),Kenya,International Centre for Insect Physiology and Ecology (ICIPE),Kenya,South-South,afr
+KENYA MEDICAL RESEARCH INSTITUTE (KEMRI),Kenya,International Livestock Research Institute (ILRI),Kenya,South-South,afr
+KENYA MEDICAL RESEARCH INSTITUTE (KEMRI),Kenya,Biosciences east and Central Africa (BecA) hub,Kenya,South-South,afr
+KENYA MEDICAL RESEARCH INSTITUTE (KEMRI),Kenya,Global One Health Initiative (GoHi),Ethiopia,South-South,afr
+KENYA MEDICAL RESEARCH INSTITUTE (KEMRI),Kenya,University of Gondar,Ethiopia,South-South,afr
+KENYA MEDICAL RESEARCH INSTITUTE (KEMRI),Kenya,Ohio State University (OSU),United States,North-South,afr
+MBARARA UNIVERSITY/SCIENCE/ TECHNOLOGY,Uganda,University of San Diego,United States,North-South,afr
+MAKERERE UNIVERSITY COLLEGE OF HEALTH SCIENCES,Uganda,Uganda Heart Institute,Uganda,South-South,afr
+MAKERERE UNIVERSITY COLLEGE OF HEALTH SCIENCES,Uganda,Cincinnati Children's Hospital Medical Centre,United States,North-South,afr
+MAKERERE UNIVERSITY COLLEGE OF HEALTH SCIENCES,Uganda,Children's National Hospital,United States,North-South,afr
+KAMUZU UNIVERSITY OF HEALTH SCIENCES,Malawi,University of North Carolina (UNC),United States,North-South,afr
+MBARARA UNIVERSITY/SCIENCE/ TECHNOLOGY,Uganda,Case Western Reserve University,United States,North-South,afr
+UNIVERSITY OF LIBERIA COLLEGE OF HEALTH SCIENCES,Liberia,Yale University,United States,North-South,afr
+STELLENBOSCH UNIVERSITY,South Africa,Mayo Clinic,United States,North-South,afr
+STELLENBOSCH UNIVERSITY,South Africa,Morehouse School of Medicine,United States,North-South,afr
+STELLENBOSCH UNIVERSITY,South Africa,Stanford University,United States,North-South,afr
+STELLENBOSCH UNIVERSITY,South Africa,Duke University,United States,North-South,afr
+STELLENBOSCH UNIVERSITY,South Africa,Weill Cornell Medical College,United States,North-South,afr
+STELLENBOSCH UNIVERSITY,South Africa,University of Cincinnati,United States,North-South,afr
+STELLENBOSCH UNIVERSITY,South Africa,Cincinnati Children's Hospital Medical Center,United States,North-South,afr
+STELLENBOSCH UNIVERSITY,South Africa,Seattle Children's Research Institute,United States,North-South,afr
+STELLENBOSCH UNIVERSITY,South Africa,Harvard University,United States,North-South,afr
+STELLENBOSCH UNIVERSITY,South Africa,University of Toronto,Canada,North-South,afr
+STELLENBOSCH UNIVERSITY,South Africa,University of Cambridge,United Kingdom,North-South,afr
+STELLENBOSCH UNIVERSITY,South Africa,University of Surrey,United Kingdom,North-South,afr
+UNIVERSITY OF CAPE TOWN,South Africa,University of Washington,United States,North-South,afr
+UNIVERSITY OF CAPE TOWN,South Africa,Cornell University,United States,North-South,afr
+BIOTECHNOLOGY RESEARCH INSTITUTE-KALRO,Kenya,Yale School of Public Health,United States,North-South,afr
+BIOTECHNOLOGY RESEARCH INSTITUTE-KALRO,Kenya,Kenya Medical Research Institute,Kenya,South-South,afr
+BIOTECHNOLOGY RESEARCH INSTITUTE-KALRO,Kenya,Gulu University,Uganda,South-South,afr
+BIOTECHNOLOGY RESEARCH INSTITUTE-KALRO,Kenya,Vector and Vector-Borne Diseases Institute,Tanzania,South-South,afr
+BIOTECHNOLOGY RESEARCH INSTITUTE-KALRO,Kenya,East African Science and Technology Commission,Regional,North-South,afr
+UNIVERSITY OF GHANA,Ghana,New York University Grossman School of Medicine,United States,North-South,afr
+UNIVERSITY OF GHANA,Ghana,University of Ghana School of Public Health,Ghana,South-South,afr
+UNIVERSITY OF ABUJA,Nigeria,University of Ibadan,Nigeria,South-South,afr
+UNIVERSITY OF ABUJA,Nigeria,Kwame Nkrumah University of Science and Technology,Ghana,South-South,afr
+UNIVERSITY OF ABUJA,Nigeria,New York University,United States,North-South,afr
+UNIVERSITY OF ABUJA,Nigeria,University of Chicago,United States,North-South,afr
+THE BOTSWANA HARVARD HEALTH PARTNERSHIP,Botswana,Ministry of Health,Botswana,South-South,afr
+THE BOTSWANA HARVARD HEALTH PARTNERSHIP,Botswana,University of Botswana,Botswana,South-South,afr
+"UNIV OF SCIENCES, TECH & TECH OF BAMAKO",Mali,Johns Hopkins School of Public Health (JHSPH),United States,North-South,afr
+KENYA MEDICAL RESEARCH INSTITUTE (KEMRI),Kenya,University of Washington,United States,North-South,afr
+KENYA MEDICAL RESEARCH INSTITUTE (KEMRI),Kenya,Jomo Kenyatta University of Agriculture and Technology,Kenya,South-South,afr
+KINTAMPO HEALTH RESEARCH CENTRE,Ghana,University of Ghana School of Public Health,Ghana,South-South,afr
+"COLLEGE OF HEALTH SCIENCES, UNIVERSITY OF GHANA",Ghana,Korle-Bu Teaching Hospital,Ghana,South-South,afr
+STELLENBOSCH UNIVERSITY,South Africa,South African National Programme,South Africa,South-South,afr
+"UNIV OF SCIENCES, TECH & TECH OF BAMAKO",Mali,UGANC,Guinea,South-South,afr
+MAKERERE UNIVERSITY COLLEGE OF HEALTH SCIENCES,Uganda,Indiana University,United States,North-South,afr
+NATIONAL UNIVERSITY OF RWANDA,Rwanda,Washington University in St. Louis,United States,North-South,afr
+MOI UNIVERSITY COLLEGE OF HEALTH SCIENCES,Kenya,NYU School of Medicine,United States,North-South,afr
+KWAME NKRUMAH UNIVERSITY/SCIENCE/TECH,Ghana,University of Washington,United States,North-South,afr
+UNIVERSITY OF CAPE TOWN,South Africa,Oregon Health & Science University (OHSU),United States,North-South,afr
+MAKERERE UNIVERSITY COLLEGE OF HEALTH SCIENCES,Uganda,Johns Hopkins University,United States,North-South,afr
+UNIVERSITY OF CAPE TOWN,South Africa,University of North Carolina,United States,North-South,afr
+UNIVERSITY OF CAPE TOWN,South Africa,University of Pennsylvania,United States,North-South,afr
+STELLENBOSCH UNIVERSITY,South Africa,Fred Hutchinson Cancer Center,United States,North-South,afr
+STELLENBOSCH UNIVERSITY,South Africa,National Institute on Minority Health and Health Disparities,United States,North-South,afr
+KAMUZU UNIVERSITY OF HEALTH SCIENCES,Malawi,University of North Carolina,United States,North-South,afr
+MAKERERE UNIVERSITY COLLEGE OF HEALTH SCIENCES,Uganda,"University of California, San Francisco (UCSF)",United States,North-South,afr
+KAMUZU UNIVERSITY OF HEALTH SCIENCES,Malawi,University of North Carolina-Chapel Hill,United States,North-South,afr
+KAMUZU UNIVERSITY OF HEALTH SCIENCES,Malawi,Ministry of Health mental health unit,Malawi,South-South,afr
+UNIVERSITY OF GHANA,Ghana,The Medical Research Council Unit Gambia,Gambia,South-South,afr
+UNIVERSITY OF GHANA,Ghana,Institut de Recherche en Sciences de la Santé,Burkina Faso,South-South,afr
+UNIVERSITY OF GHANA,Ghana,University of California at Irvine,United States,North-South,afr
+UNIVERSITY OF GHANA,Ghana,University of New Mexico,United States,North-South,afr
+UNIVERSITY OF GHANA,Ghana,Northwestern University,United States,North-South,afr
+UNIVERSITY OF CAPE TOWN,South Africa,Department of Psychology at Stellenbosch University,South Africa,South-South,afr
+UNIVERSITY OF CAPE TOWN,South Africa,Alan J. Flisher Centre for Public Mental Health,South Africa,South-South,afr
+MAKERERE UNIVERSITY COLLEGE OF HEALTH SCIENCES,Uganda,Uganda Christian University,Uganda,South-South,afr
+AFRICA UNIVERSITY,Zimbabwe,"Ministry of Health and Child Care, National Malaria Control Programme",Zimbabwe,South-South,afr
+STELLENBOSCH UNIVERSITY,South Africa,USA institution (Aldridge mentorship),United States,North-South,afr
+"UNIV OF SCIENCES, TECH & TECH OF BAMAKO",Mali,Northwestern University,United States,North-South,afr
+"UNIV OF SCIENCES, TECH & TECH OF BAMAKO",Mali,Johns Hopkins University,United States,North-South,afr
+"UNIV OF SCIENCES, TECH & TECH OF BAMAKO",Mali,Stellenbosch University,South Africa,South-South,afr
+"UNIV OF SCIENCES, TECH & TECH OF BAMAKO",Mali,Northwestern University,United States,North-South,afr
+"UNIV OF SCIENCES, TECH & TECH OF BAMAKO",Mali,George Washington University Milken Institute School of Public Health,United States,North-South,afr
+UNIVERSITY OF KWAZULU-NATAL,South Africa,CAPRISA,South Africa,South-South,afr
+UNIVERSITY OF KWAZULU-NATAL,South Africa,HPP,South Africa,South-South,afr
+UNIVERSITY OF KWAZULU-NATAL,South Africa,KRISP,South Africa,South-South,afr
+UNIVERSITY OF KWAZULU-NATAL,South Africa,HAVEG,South Africa,South-South,afr
+UNIVERSITY OF KWAZULU-NATAL,South Africa,DTTC,South Africa,South-South,afr
+UNIVERSITY OF KWAZULU-NATAL,South Africa,FAMCRU,South Africa,South-South,afr
+UNIVERSITY OF KWAZULU-NATAL,South Africa,Centre for the AIDS Programme of Research in South Africa (CAPRISA),South Africa,South-South,afr
+UNIVERSITY OF KWAZULU-NATAL,South Africa,Human Sciences Research Council (HSRC),South Africa,South-South,afr
+THE BOTSWANA HARVARD HEALTH PARTNERSHIP,Botswana,Harvard T.H. Chan School of Public Health,United States,North-South,afr
+THE BOTSWANA HARVARD HEALTH PARTNERSHIP,Botswana,Ragon Institute,United States,North-South,afr
+UNIVERSITY OF ZAMBIA,Zambia,Vanderbilt University,United States,North-South,afr
+INFECTIOUS DISEASES INSTITUTE,Uganda,Makerere University Infectious Disease Institute,Uganda,South-South,afr
+KWAME NKRUMAH UNIVERSITY/SCIENCE/TECH,Ghana,University of Cape Coast,Ghana,South-South,afr
+COLLEGE OF HEALTH SCIS UNIV OF ZIMBABWE,Zimbabwe,WITS University,South Africa,South-South,afr
+COLLEGE OF HEALTH SCIS UNIV OF ZIMBABWE,Zimbabwe,University of Colorado Denver,United States,North-South,afr
+COLLEGE OF HEALTH SCIS UNIV OF ZIMBABWE,Zimbabwe,AiBST,Zimbabwe,South-South,afr
+COLLEGE OF HEALTH SCIS UNIV OF ZIMBABWE,Zimbabwe,UZ-CRC,Zimbabwe,South-South,afr
+COLLEGE OF HEALTH SCIS UNIV OF ZIMBABWE,Zimbabwe,UZ-CTRC,Zimbabwe,South-South,afr
+COLLEGE OF HEALTH SCIS UNIV OF ZIMBABWE,Zimbabwe,BRTI,Zimbabwe,South-South,afr
+KENYA MEDICAL RESEARCH INSTITUTE (KEMRI),Kenya,Centre for Biomedical Ethics and Culture (CBEC),Pakistan,North-South,afr
+ADDIS ABABA UNIVERSITY,Ethiopia,Johns Hopkins University,United States,North-South,afr
+ADDIS ABABA UNIVERSITY,Ethiopia,Ethiopian Ministry of Education,Ethiopia,South-South,afr
+MAKERERE UNIVERSITY LUNG INSTITUTE LIMITED,Uganda,Johns Hopkins University,United States,North-South,afr
+MAKERERE UNIVERSITY LUNG INSTITUTE LIMITED,Uganda,Charité University,Germany,North-South,afr
+MAKERERE UNIVERSITY LUNG INSTITUTE LIMITED,Uganda,Imperial College London,United Kingdom,North-South,afr
+MAKERERE UNIVERSITY COLLEGE OF HEALTH SCIENCES,Uganda,Case Western Reserve University,United States,North-South,afr
+MAKERERE UNIVERSITY COLLEGE OF HEALTH SCIENCES,Uganda,Uganda Virus Research Institute (UVRI),Uganda,South-South,afr
+MAKERERE UNIVERSITY COLLEGE OF HEALTH SCIENCES,Uganda,Ministry of Vector Control Division,Uganda,South-South,afr
+UNIVERSITY OF CAPE TOWN,South Africa,Northwestern University,United States,North-South,afr
+UNIVERSITY OF CAPE TOWN,South Africa,Albert Einstein College of Medicine,United States,North-South,afr
+JOINT CLINICAL RESEARCH CENTER,Uganda,Fred Hutchinson Cancer Center,United States,North-South,afr
+JOINT CLINICAL RESEARCH CENTER,Uganda,Makerere University,Uganda,South-South,afr
+JOINT CLINICAL RESEARCH CENTER,Uganda,Caring Cross,United States,North-South,afr
+KENYATTA  NATIONAL  HOSPITAL,Kenya,University of Washington,United States,North-South,afr
+KENYATTA  NATIONAL  HOSPITAL,Kenya,Yale University,United States,North-South,afr
+JOS UNIVERSITY TEACHING HOSPITAL,Nigeria,University of Michigan,United States,North-South,afr
+MAKERERE UNIVERSITY COLLEGE OF HEALTH SCIENCES,Uganda,Northwestern University Havey Institute for Global Health,United States,North-South,afr
+UNIVERSITY OF NAIROBI,Kenya,Kenyatta National Hospital,Kenya,South-South,afr
+UNIVERSITY OF NAIROBI,Kenya,Mbagathi County Hospital,Kenya,South-South,afr
+UNIVERSITY OF CAPE TOWN,South Africa,University of California Davis,United States,North-South,afr
+UNIVERSITY OF ZAMBIA,Zambia,Mulungushi University School of Medicine,Zambia,South-South,afr
+UNIVERSITY OF ZAMBIA,Zambia,Centre for Infectious Diseases Research in Zambia (CIDRZ),Zambia,South-South,afr
+UNIVERSITY OF ZAMBIA,Zambia,Vanderbilt University,United States,North-South,afr
+UNIVERSITY OF ZAMBIA,Zambia,University of Alabama at Birmingham,United States,North-South,afr
+UNIVERSITY OF ZAMBIA,Zambia,University of North Carolina,United States,North-South,afr
+INFECTIOUS DISEASES INSTITUTE,Uganda,Makerere University,Uganda,South-South,afr
+STELLENBOSCH UNIVERSITY,South Africa,"Mayo Clinic, Rochester",United States,North-South,afr
+STELLENBOSCH UNIVERSITY,South Africa,Morehouse School of Medicine,United States,North-South,afr
+STELLENBOSCH UNIVERSITY,South Africa,Stanford University,United States,North-South,afr
+STELLENBOSCH UNIVERSITY,South Africa,Duke University,United States,North-South,afr
+STELLENBOSCH UNIVERSITY,South Africa,Weill Cornell Medical College,United States,North-South,afr
+STELLENBOSCH UNIVERSITY,South Africa,University of Cincinnati,United States,North-South,afr
+STELLENBOSCH UNIVERSITY,South Africa,Seattle Children's Research Institute,United States,North-South,afr
+STELLENBOSCH UNIVERSITY,South Africa,Imperial College London,United Kingdom,North-South,afr
+STELLENBOSCH UNIVERSITY,South Africa,University of Oxford,United Kingdom,North-South,afr
+"UNIV OF SCIENCES, TECH & TECH OF BAMAKO",Mali,Northwestern University,United States,North-South,afr
+"UNIV OF SCIENCES, TECH & TECH OF BAMAKO",Mali,Johns Hopkins University,United States,North-South,afr
+KWAME NKRUMAH UNIVERSITY/SCIENCE/TECH,Ghana,University of Iowa,United States,North-South,afr
+UNIVERSITY OF CAPE TOWN,South Africa,Harvard University,United States,North-South,afr
+UNIVERSITY OF CAPE TOWN,South Africa,University of Michigan,United States,North-South,afr
+MASENO UNIVERSITY,Kenya,University of New Mexico,United States,North-South,afr
+AGA KHAN UNIVERSITY (KENYA),Kenya,University of Washington,United States,North-South,afr
+AGA KHAN UNIVERSITY (KENYA),Kenya,Fred Hutchinson Cancer Research Center,United States,North-South,afr
+INFECTIOUS DISEASES INSTITUTE,Uganda,"Makerere University, School of Medicine",Uganda,South-South,afr
+MAKERERE UNIVERSITY COLLEGE OF HEALTH SCIENCES,Uganda,CAfGEN,Unknown,North-South,afr
+MAKERERE UNIVERSITY COLLEGE OF HEALTH SCIENCES,Uganda,TrypanoGEN,Unknown,North-South,afr
+MAKERERE UNIVERSITY COLLEGE OF HEALTH SCIENCES,Uganda,IBH3AU,Unknown,North-South,afr
+MAKERERE UNIVERSITY COLLEGE OF HEALTH SCIENCES,Uganda,H3BioNET,Unknown,North-South,afr
+STELLENBOSCH UNIVERSITY,South Africa,Fred Hutchinson Cancer Research Center,United States,North-South,afr
+EDUARDO MONDLANE UNIVERSITY,Mozambique,UC San Diego (UCSD),United States,North-South,afr
+EDUARDO MONDLANE UNIVERSITY,Mozambique,Maputo Central Hospital (MCH),Mozambique,South-South,afr
+EDUARDO MONDLANE UNIVERSITY,Mozambique,Universidade Lúrio (UniLurio),Mozambique,South-South,afr
+EDUARDO MONDLANE UNIVERSITY,Mozambique,Universidade Zambeze (UniZambeze),Mozambique,South-South,afr
+EDUARDO MONDLANE UNIVERSITY,Mozambique,Universidade Pedagógica de Mozambique (UPM),Mozambique,South-South,afr
+EDUARDO MONDLANE UNIVERSITY,Mozambique,Instituto Superior de Ciências de Saúde (ISCISA),Mozambique,South-South,afr
+ADDIS ABABA UNIVERSITY,Ethiopia,Dilla University,Ethiopia,South-South,afr
+ADDIS ABABA UNIVERSITY,Ethiopia,Wolaita Sodo University,Ethiopia,South-South,afr
+ADDIS ABABA UNIVERSITY,Ethiopia,University of Alabama,United States,North-South,afr
+ADDIS ABABA UNIVERSITY,Ethiopia,Emory University,United States,North-South,afr
+UNIVERSITY OF NAIROBI,Kenya,Jomo Kenyatta University of Agriculture and Technology,Kenya,South-South,afr
+UNIVERSITY OF NAIROBI,Kenya,Kenyatta University,Kenya,South-South,afr
+UNIVERSITY OF NAIROBI,Kenya,Maseno University,Kenya,South-South,afr
+UNIVERSITY OF NAIROBI,Kenya,University of Washington,United States,North-South,afr
+UNIVERSITY OF NAIROBI,Kenya,Stanford University,United States,North-South,afr
+MBARARA UNIVERSITY/SCIENCE/ TECHNOLOGY,Uganda,Bishop Stuart University,Uganda,South-South,afr
+MBARARA UNIVERSITY/SCIENCE/ TECHNOLOGY,Uganda,Busitema University,Uganda,South-South,afr
+MBARARA UNIVERSITY/SCIENCE/ TECHNOLOGY,Uganda,Lira University,Uganda,South-South,afr
+MBARARA UNIVERSITY/SCIENCE/ TECHNOLOGY,Uganda,Massachusetts General Hospital,United States,North-South,afr
+COLLEGE OF HEALTH SCIS UNIV OF ZIMBABWE,Zimbabwe,University of Zimbabwe,Zimbabwe,South-South,afr
+COLLEGE OF HEALTH SCIS UNIV OF ZIMBABWE,Zimbabwe,National University of Science and Technology,Zimbabwe,South-South,afr
+COLLEGE OF HEALTH SCIS UNIV OF ZIMBABWE,Zimbabwe,Midlands State University,Zimbabwe,South-South,afr
+COLLEGE OF HEALTH SCIS UNIV OF ZIMBABWE,Zimbabwe,Africa University,Zimbabwe,South-South,afr
+COLLEGE OF HEALTH SCIS UNIV OF ZIMBABWE,Zimbabwe,University of Colorado Denver,United States,North-South,afr
+COLLEGE OF HEALTH SCIS UNIV OF ZIMBABWE,Zimbabwe,Stanford University,United States,North-South,afr
+UNIVERSITY OF NAIROBI,Kenya,University of Washington,United States,North-South,afr
+UNIVERSITY OF NAIROBI,Kenya,Kenyatta National Hospital,Kenya,South-South,afr
+MEDICAL RESEARCH COUNCIL UNIT THE GAMBIA AT THE LONDON SCHOOL OF HYGIENE & TROPICAL MEDICINE,Gambia,Emory University (Atlanta),United States,North-South,afr
+MEDICAL RESEARCH COUNCIL UNIT THE GAMBIA AT THE LONDON SCHOOL OF HYGIENE & TROPICAL MEDICINE,Gambia,University of the Witwatersrand or similar South African institution,South Africa,South-South,afr
+KWAME NKRUMAH UNIVERSITY/SCIENCE/TECH,Ghana,University of Ghana Legon,Ghana,South-South,afr
+KWAME NKRUMAH UNIVERSITY/SCIENCE/TECH,Ghana,University of Michigan,United States,North-South,afr
+KWAME NKRUMAH UNIVERSITY/SCIENCE/TECH,Ghana,University of North Carolina,United States,North-South,afr
+KWAME NKRUMAH UNIVERSITY/SCIENCE/TECH,Ghana,Komfo Anokye Teaching Hospital and School,Ghana,South-South,afr
+UNIVERSITY OF JOS,Nigeria,Northwestern University,United States,North-South,afr
+MOI UNIVERSITY COLLEGE OF HEALTH SCIENCES,Kenya,Brown University,United States,North-South,afr
+MOI UNIVERSITY COLLEGE OF HEALTH SCIENCES,Kenya,Moi University,Kenya,South-South,afr
+AURUM INSTITUTE NPC,South Africa,Vanderbilt University Medical Center,United States,North-South,afr
+COVENANT UNIVERSITY,Nigeria,University of Bamako,Mali,South-South,afr
+COVENANT UNIVERSITY,Nigeria,University of Ghana,Ghana,South-South,afr
+COVENANT UNIVERSITY,Nigeria,KNUST,Ghana,South-South,afr
+MAKERERE UNIVERSITY COLLEGE OF HEALTH SCIENCES,Uganda,George Washington University,United States,North-South,afr
+MAKERERE UNIVERSITY COLLEGE OF HEALTH SCIENCES,Uganda,National Institute of Allergy and Infectious Diseases (NIAID),United States,North-South,afr
+INFECTIOUS DISEASES INSTITUTE,Uganda,Makerere University,Uganda,South-South,afr
+"COLLEGE OF MEDICINE, UNIVERSITY OF IBADAN",Nigeria,University of Chicago,United States,North-South,afr
+STELLENBOSCH UNIVERSITY,South Africa,University of Cape Town,South Africa,South-South,afr
+STELLENBOSCH UNIVERSITY,South Africa,Columbia University,United States,North-South,afr
+STELLENBOSCH UNIVERSITY,South Africa,Harvard University,United States,North-South,afr
+MBARARA UNIVERSITY/SCIENCE/ TECHNOLOGY,Uganda,Harvard University,United States,North-South,afr
+MAKERERE UNIVERSITY COLLEGE OF HEALTH SCIENCES,Uganda,Case Western University,United States,North-South,afr
+BAYLOR COLL OF MED CHILDREN'S FDN-UGANDA,Uganda,Johns Hopkins University School of Medicine,United States,North-South,afr
+UNIVERSITY OF CAPE TOWN,South Africa,Johns Hopkins University,United States,North-South,afr
+UNIVERSITY OF CAPE TOWN,South Africa,Vanderbilt University Medical Center,United States,North-South,afr
+FUNDACAO MANHICA,Mozambique,Baylor College of Medicine,United States,North-South,afr
+UNIVERSITY OF THE WESTERN CAPE,South Africa,University at Buffalo,United States,North-South,afr
+STELLENBOSCH UNIVERSITY,South Africa,University of North Carolina-Chapel Hill,United States,North-South,afr
+"COLLEGE OF MEDICINE, UNIVERSITY OF LAGOS",Nigeria,AIDS Prevention Initiative in Nigeria LLC (APIN),Nigeria,South-South,afr
+"COLLEGE OF MEDICINE, UNIVERSITY OF LAGOS",Nigeria,Harvard School of Public Health (HSPH),United States,North-South,afr
+"COLLEGE OF MEDICINE, UNIVERSITY OF LAGOS",Nigeria,Northwestern University (NU),United States,North-South,afr
+RASD RWANDA,Rwanda,University of Rwanda College of Medicine and Health Sciences,Rwanda,South-South,afr
+RASD RWANDA,Rwanda,Washington University School of Medicine in St. Louis,United States,North-South,afr
+INFECTIOUS DISEASES RES COLLABORATION,Uganda,"University of California, San Francisco",United States,North-South,afr
+UNIVERSITY OF NAIROBI,Kenya,University of Washington,United States,North-South,afr
+NOGUCHI MEMORIAL INSTITUTE / MEDICAL RES,Ghana,Yale University,United States,North-South,afr
+AGA KHAN UNIVERSITY (KENYA),Kenya,University of Washington,United States,North-South,afr
+UNIVERSITY OF JOS,Nigeria,Ahmadu Bello University,Nigeria,South-South,afr
+UNIVERSITY OF JOS,Nigeria,Harvard School of Public Health,United States,North-South,afr
+UNIVERSITY OF JOS,Nigeria,Northwestern University,United States,North-South,afr
+UNIVERSITY OF NAIROBI,Kenya,University of Washington,United States,North-South,afr
+UNIVERSITY OF NAIROBI,Kenya,Kenyatta University,Kenya,South-South,afr
+UNIVERSITY OF NAIROBI,Kenya,Maseno University,Kenya,South-South,afr
+UNIVERSITY OF KWAZULU-NATAL,South Africa,KwaZulu-Natal Department of Health,South Africa,South-South,afr
+UNIVERSITY OF CAPE TOWN,South Africa,Department of Psychology at Stellenbosch University,South Africa,South-South,afr
+"WITS HEALTH CONSORTIUM (PTY), LTD",South Africa,University of the Witwatersrand,South Africa,South-South,afr
+"WITS HEALTH CONSORTIUM (PTY), LTD",South Africa,Chris Hani Baragwanath Academic Hospital,South Africa,South-South,afr
+MAKERERE UNIVERSITY WALTER REED PROGRAM LIMITED,Uganda,Uganda Cancer Institute,Uganda,South-South,afr
+MAKERERE UNIVERSITY WALTER REED PROGRAM LIMITED,Uganda,Makerere University Walter Reed Project,Uganda,South-South,afr
+EDUARDO MONDLANE UNIVERSITY,Mozambique,Instituto Nacional de Saude (INS),Mozambique,South-South,afr
+EDUARDO MONDLANE UNIVERSITY,Mozambique,Maputo Central Hospital (MCH),Mozambique,South-South,afr
+COLLEGE OF HEALTH SCIS UNIV OF ZIMBABWE,Zimbabwe,University of Colorado Denver,United States,North-South,afr
+COLLEGE OF HEALTH SCIS UNIV OF ZIMBABWE,Zimbabwe,Stanford University,United States,North-South,afr
+COLLEGE OF HEALTH SCIS UNIV OF ZIMBABWE,Zimbabwe,University of Cape Town,South Africa,South-South,afr
+COLLEGE OF HEALTH SCIS UNIV OF ZIMBABWE,Zimbabwe,University College London,United Kingdom,North-South,afr
+COLLEGE OF HEALTH SCIS UNIV OF ZIMBABWE,Zimbabwe,King's College London,United Kingdom,North-South,afr
+CENTRE FOR INFECTIOUS DISEASE RESEARCH,Zambia,University of Alabama at Birmingham (UAB),United States,North-South,afr
+CENTRE FOR INFECTIOUS DISEASE RESEARCH,Zambia,Zambian Ministry of Health,Zambia,South-South,afr
+CENTRE FOR INFECTIOUS DISEASE RESEARCH,Zambia,University of Zambia,Zambia,South-South,afr
+"COLLEGE OF MEDICINE, UNIVERSITY OF IBADAN",Nigeria,Harvard School of Public Health,United States,North-South,afr
+"COLLEGE OF MEDICINE, UNIVERSITY OF IBADAN",Nigeria,Northwestern University,United States,North-South,afr
+MAKERERE UNIVERSITY WALTER REED PROGRAM LIMITED,Uganda,University of Minnesota,United States,North-South,afr
+CENTRE/AIDS PROGRAMME/RES/SOUTH AFRICA,South Africa,Centre for Infectious Disease Research in Zambia,Zambia,South-South,afr
+INSTITUT PASTEUR DE TUNIS,Tunisia,University of Rhode Island,United States,North-South,afr
+COLLEGE OF HEALTH SCIS UNIV OF ZIMBABWE,Zimbabwe,University of Colorado,United States,North-South,afr
+COLLEGE OF HEALTH SCIS UNIV OF ZIMBABWE,Zimbabwe,Stanford University,United States,North-South,afr
+"COLLEGE OF MEDICINE, UNIVERSITY OF IBADAN",Nigeria,University of Chicago,United States,North-South,afr
+"COLLEGE OF MEDICINE, UNIVERSITY OF IBADAN",Nigeria,University College Hospital,Nigeria,South-South,afr
+"COLLEGE OF MEDICINE, UNIVERSITY OF IBADAN",Nigeria,African Organization for Research and Training in Cancer,Africa (multinational),North-South,afr
+"COLLEGE OF MEDICINE, UNIVERSITY OF IBADAN",Nigeria,"Sickle CHARTA (Consortium for Health, Advocacy, Research and Training in Africa for Sickle Cell Disease)",Africa (multinational),North-South,afr
+"COLLEGE OF MEDICINE, UNIVERSITY OF IBADAN",Nigeria,Global Alliance for Clean Cookstoves,International (multinational),North-South,afr
+UNIVERSITY OF BOTSWANA,Botswana,Princess Marina Hospital,Botswana,South-South,afr
+UNIVERSITY OF BOTSWANA,Botswana,University of Pennsylvania,United States,North-South,afr
+UNIVERSITY OF BOTSWANA,Botswana,Harvard University,United States,North-South,afr
+MAKERERE UNIVERSITY COLLEGE OF HEALTH SCIENCES,Uganda,Duke University,United States,North-South,afr
+"UNIV OF SCIENCES, TECH & TECH OF BAMAKO",Mali,University of Bamako (USTTB),Mali,South-South,afr
+"UNIV OF SCIENCES, TECH & TECH OF BAMAKO",Mali,Northwestern University,United States,North-South,afr
+"UNIV OF SCIENCES, TECH & TECH OF BAMAKO",Mali,Johns Hopkins University,United States,North-South,afr
+"UNIV OF SCIENCES, TECH & TECH OF BAMAKO",Mali,University of Conakry,Guinea,South-South,afr
+MAKERERE UNIVERSITY COLLEGE OF HEALTH SCIENCES,Uganda,Ministry of Health,Uganda,South-South,afr
+NOGUCHI MEMORIAL INSTITUTE / MEDICAL RES,Ghana,Yale,United States,North-South,afr
+UNIVERSITY OF KWAZULU-NATAL,South Africa,KwaZulu-Natal Research Institute for Tuberculosis and HIV (K-RITH),South Africa,South-South,afr
+UNIVERSITY OF CAPE TOWN,South Africa,Johns Hopkins,United States,North-South,afr
+UNIVERSITY OF CAPE TOWN,South Africa,University of North Carolina,United States,North-South,afr
+UNIVERSITY OF CAPE TOWN,South Africa,Vanderbilt,United States,North-South,afr
+STELLENBOSCH UNIVERSITY,South Africa,University of North Carolina-Chapel Hill,United States,North-South,afr
+UNIVERSITY OF NAIROBI,Kenya,"University of Maryland, Baltimore",United States,North-South,afr
+JOINT CLINICAL RESEARCH CENTER,Uganda,Makerere University,Uganda,South-South,afr
+JOINT CLINICAL RESEARCH CENTER,Uganda,Uganda Ministry of Defense,Uganda,South-South,afr
+JOINT CLINICAL RESEARCH CENTER,Uganda,Uganda Ministry of Health,Uganda,South-South,afr
+JOINT CLINICAL RESEARCH CENTER,Uganda,Uganda Ministry of Education,Uganda,South-South,afr
+UNIVERSITY OF NAIROBI,Kenya,Kenyatta National Hospital,Kenya,South-South,afr
+UNIVERSITY OF NAIROBI,Kenya,University of Washington,United States,North-South,afr
+UNIVERSITY OF NAIROBI,Kenya,University of Washington,United States,North-South,afr
+RASD RWANDA,Rwanda,WE-ACTx Rwanda (Women's Equity in Access to Care and Treatment),Rwanda,South-South,afr
+RASD RWANDA,Rwanda,"King Faisal Hospital, Kigali",Rwanda,South-South,afr
+RASD RWANDA,Rwanda,National University of Rwanda,Rwanda,South-South,afr
+RASD RWANDA,Rwanda,"Albert Einstein College of Medicine, Yeshiva University",United States,North-South,afr
+"COLLEGE OF MEDICINE, UNIVERSITY OF IBADAN",Nigeria,Northwestern University,United States,North-South,afr
+MAKERERE UNIVERSITY COLLEGE OF HEALTH SCIENCES,Uganda,Uganda Martyrs University,Uganda,South-South,afr
+MAKERERE UNIVERSITY COLLEGE OF HEALTH SCIENCES,Uganda,Case Western Reserve University,United States,North-South,afr
+MOI UNIVERSITY COLLEGE OF HEALTH SCIENCES,Kenya,Moi Teaching and Referral Hospital (MTRH),Kenya,South-South,afr
+JOINT CLINICAL RESEARCH CENTER,Uganda,Makerere University,Uganda,South-South,afr
+JOINT CLINICAL RESEARCH CENTER,Uganda,Gulu University,Uganda,South-South,afr
+JOINT CLINICAL RESEARCH CENTER,Uganda,Mbarara University,Uganda,South-South,afr
+JOINT CLINICAL RESEARCH CENTER,Uganda,Uganda National TB and Leprosy Program,Uganda,South-South,afr
+JOINT CLINICAL RESEARCH CENTER,Uganda,Uganda Ministry of Health,Uganda,South-South,afr
+JOINT CLINICAL RESEARCH CENTER,Uganda,Case Western Reserve University,United States,North-South,afr
+JOINT CLINICAL RESEARCH CENTER,Uganda,University of Georgia,United States,North-South,afr
+UNIVERSITY TEACHING HOSPITAL (UTH),Zambia,Ministry of Health,Zambia,South-South,afr
+MAKERERE UNIVERSITY COLLEGE OF HEALTH SCIENCES,Uganda,"University of California, San Francisco",United States,North-South,afr
+MAKERERE UNIVERSITY COLLEGE OF HEALTH SCIENCES,Uganda,Uganda Ministry of Health,Uganda,South-South,afr
+MAKERERE UNIVERSITY COLLEGE OF HEALTH SCIENCES,Uganda,Makerere University School of Public Health,Uganda,South-South,afr
+MAKERERE UNIVERSITY COLLEGE OF HEALTH SCIENCES,Uganda,London School of Hygiene and Tropical Medicine,United Kingdom,North-South,afr
+MU-JHU CARE,Uganda,Johns Hopkins University,United States,North-South,afr
+MU-JHU CARE,Uganda,Case Western Reserve University,United States,North-South,afr
+MU-JHU CARE,Uganda,Infectious Diseases Institute,Uganda,South-South,afr
+MU-JHU CARE,Uganda,Joint Clinical Research Centre,Uganda,South-South,afr
+"WITS HEALTH CONSORTIUM (PTY), LTD",South Africa,University of the Witwatersrand,South Africa,South-South,afr
+"WITS HEALTH CONSORTIUM (PTY), LTD",South Africa,University of Cape Town,South Africa,South-South,afr
+"WITS HEALTH CONSORTIUM (PTY), LTD",South Africa,Stellenbosch University,South Africa,South-South,afr
+"WITS HEALTH CONSORTIUM (PTY), LTD",South Africa,Johns Hopkins University,United States,North-South,afr
+"WITS HEALTH CONSORTIUM (PTY), LTD",South Africa,University of North Carolina at Chapel Hill,United States,North-South,afr
+"WITS HEALTH CONSORTIUM (PTY), LTD",South Africa,University of Malawi,Malawi,South-South,afr
+"WITS HEALTH CONSORTIUM (PTY), LTD",South Africa,University of Pretoria,South Africa,South-South,afr
+"WITS HEALTH CONSORTIUM (PTY), LTD",South Africa,Yale University,United States,North-South,afr
+"WITS HEALTH CONSORTIUM (PTY), LTD",South Africa,University of KwaZulu-Natal,South Africa,South-South,afr
+"WITS HEALTH CONSORTIUM (PTY), LTD",South Africa,Columbia University,United States,North-South,afr
+MAKERERE UNIVERSITY COLLEGE OF HEALTH SCIENCES,Uganda,Mulago National Referral Hospital,Uganda,South-South,afr
+MAKERERE UNIVERSITY COLLEGE OF HEALTH SCIENCES,Uganda,Duke University Medical Center,United States,North-South,afr
+MU-JHU CARE,Uganda,Makerere University Medical School,Uganda,South-South,afr
+MU-JHU CARE,Uganda,"Infectious Diseases Institute (IDI), Makerere",Uganda,South-South,afr
+MU-JHU CARE,Uganda,Mbarara University,Uganda,South-South,afr
+MU-JHU CARE,Uganda,Gulu University,Uganda,South-South,afr
+MAKERERE UNIVERSITY COLLEGE OF HEALTH SCIENCES,Uganda,"University of California, San Francisco (UCSF)",United States,North-South,afr
+MAKERERE UNIVERSITY COLLEGE OF HEALTH SCIENCES,Uganda,Uganda Ministry of Health,Uganda,South-South,afr
+UNIVERSITY OF MALAWI,Malawi,Johns Hopkins University,United States,North-South,afr
+UNIVERSITY OF MALAWI,Malawi,University of Illinois at Chicago,United States,North-South,afr
+UNIVERSITY OF MALAWI,Malawi,University of North Carolina,United States,North-South,afr
+UNIVERSITY OF MALAWI,Malawi,Kamuzu College of Nursing,Malawi,South-South,afr
+UNIVERSITY OF MALAWI,Malawi,College of Medicine,Malawi,South-South,afr
+WITS HEALTH CONSORTIUM (PTY) LTD,South Africa,University of Witwatersrand,South Africa,South-South,afr
+VANDERBILT UNIVERSITY MEDICAL CENTER,United States,Universidade Eduardo Mondlane (UEM),Mozambique,North-South,us
+COLUMBIA UNIVERSITY HEALTH SCIENCES,United States,Institutions in Brazil,Brazil,North-North,us
+COLUMBIA UNIVERSITY HEALTH SCIENCES,United States,Institutions in Mozambique,Mozambique,North-South,us
+UNIVERSITY OF MARYLAND BALTIMORE,United States,University Teaching Hospital (UTH),Zambia,North-South,us
+UNIVERSITY OF MINNESOTA,United States,Tuskegee University,United States,North-North,us
+COLUMBIA UNIVERSITY HEALTH SCIENCES,United States,X223 (South Bronx public high school),United States,North-North,us
+EMORY UNIVERSITY,United States,Addis Ababa University,Ethiopia,North-South,us
+EMORY UNIVERSITY,United States,Bahir Dar University,Ethiopia,North-South,us
+STATE UNIVERSITY OF NEW YORK AT BUFFALO,United States,University of Zimbabwe,Zimbabwe,North-South,us
+YALE UNIVERSITY,United States,American University of Beirut,Lebanon,North-North,us
+YALE UNIVERSITY,United States,University of Iowa,United States,North-North,us
+SLOAN-KETTERING INST CAN RESEARCH,United States,Harvard University,United States,North-North,us
+UNIVERSITY OF ALABAMA AT BIRMINGHAM,United States,Samford University,United States,North-North,us
+WASHINGTON UNIVERSITY,United States,University of Ghana,Ghana,North-South,us
+WASHINGTON UNIVERSITY,United States,Noguchi Memorial Institute for Medical Research,Ghana,North-South,us
+UNIVERSITY OF NEW MEXICO HEALTH SCIS CTR,United States,Maseno University,Kenya,North-South,us
+UNIVERSITY OF NEW MEXICO HEALTH SCIS CTR,United States,Masinde Muliro University of Science and Technology,Kenya,North-South,us
+UNIVERSITY OF NEW MEXICO HEALTH SCIS CTR,United States,Kirinyaga University,Kenya,North-South,us
+UNIVERSITY OF NEW MEXICO HEALTH SCIS CTR,United States,Kenya Medical Research Institute,Kenya,North-South,us
+DUKE UNIVERSITY,United States,Emory University,United States,North-North,us
+HARVARD UNIVERSITY D/B/A HARVARD SCHOOL OF PUBLIC HEALTH,United States,Boston University School of Public Health,United States,North-North,us
+HARVARD UNIVERSITY D/B/A HARVARD SCHOOL OF PUBLIC HEALTH,United States,"Northwestern University Institute for Global Health, Feinberg School of Medicine",United States,North-North,us
+HARVARD UNIVERSITY D/B/A HARVARD SCHOOL OF PUBLIC HEALTH,United States,"University of New Mexico School of Medicine, Center for Global Health",United States,North-North,us
+UNIVERSITY OF MINNESOTA,United States,North Hennepin Community College,United States,North-North,us
+UNIVERSITY OF MINNESOTA,United States,Bemidji State University,United States,North-North,us
+UNIVERSITY OF MINNESOTA,United States,University of Texas-San Antonio,United States,North-North,us
+BROWN UNIVERSITY,United States,Moi University,Kenya,North-South,us
+UNIVERSITY OF MARYLAND BALTIMORE,United States,Center for Bioethics and Research,Nigeria,North-South,us
+UNIVERSITY OF MARYLAND BALTIMORE,United States,University of Ibadan,Nigeria,North-South,us
+OHIO STATE UNIVERSITY,United States,University of Nairobi,Kenya,North-South,us
+OHIO STATE UNIVERSITY,United States,Zoonotic Disease Unit,Kenya,North-South,us
+OHIO STATE UNIVERSITY,United States,"One Health Research, Education and Outreach Centre in Africa",Kenya,North-South,us
+VANDERBILT UNIVERSITY MEDICAL CENTER,United States,Aminu Kano Teaching Hospital (AKTH),Nigeria,North-South,us
+VANDERBILT UNIVERSITY MEDICAL CENTER,United States,Bayero University in Kano (BUK),Nigeria,North-South,us
+"UNIVERSITY OF CALIFORNIA, SAN FRANCISCO",United States,Vitalant Research Institute (VRI),United States,North-North,us
+"UNIVERSITY OF CALIFORNIA, SAN FRANCISCO",United States,University of Cape Town (UCT),South Africa,North-South,us
+"UNIVERSITY OF CALIFORNIA, SAN FRANCISCO",United States,South Africa National Blood Service (SANBS),South Africa,North-South,us
+CASE WESTERN RESERVE UNIVERSITY,United States,Makerere University,Uganda,North-South,us
+LSU HEALTH SCIENCES CENTER,United States,University of Zambia School of Medicine,Zambia,North-South,us
+LSU HEALTH SCIENCES CENTER,United States,University Teaching Hospitals,Zambia,North-South,us
+LSU HEALTH SCIENCES CENTER,United States,Cancer Diseases Hospital,Zambia,North-South,us
+JOHNS HOPKINS UNIVERSITY,United States,Muhimbili University of Health and Allied Sciences,Tanzania,North-South,us
+JOHNS HOPKINS UNIVERSITY,United States,Tanzania Red Cross Society,Tanzania,North-South,us
+UNIVERSITY OF CALIFORNIA LOS ANGELES,United States,Charles R. Drew University of Medicine and Science,United States,North-North,us
+UNIVERSITY OF CALIFORNIA LOS ANGELES,United States,Los Angeles Community College District,United States,North-North,us
+EMORY UNIVERSITY,United States,India partners (not specifically named),India,North-North,us
+EMORY UNIVERSITY,United States,U.K. partner (not specifically named),United Kingdom,North-North,us
+GEORGE WASHINGTON UNIVERSITY,United States,"University of Sciences, Techniques and Technology of Bamako (USTTB)",Mali,North-South,us
+UNIVERSITY OF VIRGINIA,United States,Kibong'oto Infectious Diseases Hospital (KIDH) / National Infectious Diseases Institute (NIDI),Tanzania,North-South,us
+UNIVERSITY OF VIRGINIA,United States,Kilimanjaro Clinical Research Institute,Tanzania,North-South,us
+TULANE UNIVERSITY OF LOUISIANA,United States,Kenema Government Hospital,Sierra Leone,North-South,us
+TULANE UNIVERSITY OF LOUISIANA,United States,College of Medicine and Allied Health Sciences (COMAHS),Sierra Leone,North-South,us
+TULANE UNIVERSITY OF LOUISIANA,United States,University of Sierra Leone,Sierra Leone,North-South,us
+GEORGE WASHINGTON UNIVERSITY,United States,University of Zimbabwe Faculty of Medicine and Health Sciences,Zimbabwe,North-South,us
+TENNESSEE STATE UNIVERSITY,United States,Vanderbilt University Medical Center,United States,North-North,us
+VANDERBILT UNIVERSITY MEDICAL CENTER,United States,Aminu Kano Teaching Hospital/Bayero University Kano (AKTH/BUK),Nigeria,North-South,us
+VANDERBILT UNIVERSITY MEDICAL CENTER,United States,National Health Research Ethics Committee of Nigeria,Nigeria,North-South,us
+NORTHEASTERN UNIVERSITY,United States,Dana-Farber/Harvard Cancer Center,United States,North-North,us
+UNIVERSITY OF PITTSBURGH AT PITTSBURGH,United States,"Polana Caniço Health Research and Training Center (Centro de Investigação e Treino em Saúde da Polana Caniço, CISPOC)",Mozambique,North-South,us
+UNIVERSITY OF PITTSBURGH AT PITTSBURGH,United States,Mozambique National Institute of Health,Mozambique,North-South,us
+UNIVERSITY OF PITTSBURGH AT PITTSBURGH,United States,Stellenbosch University,South Africa,North-South,us
+UNIVERSITY OF PITTSBURGH AT PITTSBURGH,United States,Universidade Eduardo Mondlane,Mozambique,North-South,us
+UNIVERSITY OF WASHINGTON,United States,Universities in Washington,United States,North-North,us
+UNIVERSITY OF WASHINGTON,United States,Universities in Minnesota,United States,North-North,us
+UNIVERSITY OF WASHINGTON,United States,Universities in Michigan,United States,North-North,us
+UNIVERSITY OF WASHINGTON,United States,Universities in Indiana,United States,North-North,us
+UNIVERSITY OF WASHINGTON,United States,Universities in Hawaii,United States,North-North,us
+VANDERBILT UNIVERSITY MEDICAL CENTER,United States,University of Zambia,Zambia,North-South,us
+VANDERBILT UNIVERSITY MEDICAL CENTER,United States,University Teaching Hospital,Zambia,North-South,us
+VANDERBILT UNIVERSITY MEDICAL CENTER,United States,Cancer Diseases Hospital,Zambia,North-South,us
+VANDERBILT UNIVERSITY MEDICAL CENTER,United States,Zambia Ministry of Health,Zambia,North-South,us
+CASE WESTERN RESERVE UNIVERSITY,United States,Emory University,United States,North-North,us
+CASE WESTERN RESERVE UNIVERSITY,United States,Nigerian Institute of Medical Research (NIMR),Nigeria,North-South,us
+CASE WESTERN RESERVE UNIVERSITY,United States,University of Lagos (UNILAG),Nigeria,North-South,us
+CASE WESTERN RESERVE UNIVERSITY,United States,AIDS Prevention Initiative Nigeria (APIN),Nigeria,North-South,us
+UNIV OF MASSACHUSETTS MED SCH WORCESTER,United States,American College of Medical Toxicology,United States,North-North,us
+WEILL MEDICAL COLL OF CORNELL UNIV,United States,Mwanza Intervention Trials Unit (MITU),Tanzania,North-South,us
+WEILL MEDICAL COLL OF CORNELL UNIV,United States,Tanzania National Institute for Medical Research (NIMR),Tanzania,North-South,us
+WEILL MEDICAL COLL OF CORNELL UNIV,United States,London School of Hygiene and Tropical Medicine (LSHTM),United Kingdom,North-North,us
+WEILL MEDICAL COLL OF CORNELL UNIV,United States,Weill Bugando School of Medicine,Tanzania,North-South,us
+UNIVERSITY OF WASHINGTON,United States,University of Nairobi,Kenya,North-South,us
+UNIVERSITY OF WASHINGTON,United States,Kenya Medical Research Institute (KEMRI),Kenya,North-South,us
+UNIVERSITY OF WASHINGTON,United States,Ministry of Health National Tuberculosis Leprosy and Lung Disease Program (MoH NTLP),Kenya,North-South,us
+UNIVERSITY OF WASHINGTON,United States,Kenya Pediatric Research Consortium (KEPRECON),Kenya,North-South,us
+COLUMBIA UNIVERSITY HEALTH SCIENCES,United States,Addis Ababa University,Ethiopia,North-South,us
+COLUMBIA UNIVERSITY HEALTH SCIENCES,United States,University of Nairobi,Kenya,North-South,us
+COLUMBIA UNIVERSITY HEALTH SCIENCES,United States,Makerere University,Uganda,North-South,us
+COLUMBIA UNIVERSITY HEALTH SCIENCES,United States,Rwanda (training partner),Rwanda,North-South,us
+COLUMBIA UNIVERSITY HEALTH SCIENCES,United States,Ghana (training partner),Ghana,North-South,us
+COLUMBIA UNIVERSITY HEALTH SCIENCES,United States,Cameroon (training partner),Cameroon,North-South,us
+NORTHWESTERN UNIVERSITY,United States,University of Ibadan,Nigeria,North-South,us
+JOHNS HOPKINS UNIVERSITY,United States,Makerere University,Uganda,North-South,us
+JOHNS HOPKINS UNIVERSITY,United States,University of Oxford,United Kingdom,North-North,us
+CHILDREN'S HOSPITAL OF LOS ANGELES,United States,University of Southern California,United States,North-North,us
+CHILDREN'S HOSPITAL OF LOS ANGELES,United States,Keck School of Medicine,United States,North-North,us
+RESEARCH INST OF FOX CHASE CAN CTR,United States,University of Delaware,United States,North-North,us
+GEORGE WASHINGTON UNIVERSITY,United States,University of Zambia School of Public Health,Zambia,North-South,us
+EMORY UNIVERSITY,United States,Armauer Hansen Research Institute (AHRI),Ethiopia,North-South,us
+EMORY UNIVERSITY,United States,Addis Ababa University,Ethiopia,North-South,us
+EMORY UNIVERSITY,United States,Ethiopian Public Health Institute,Ethiopia,North-South,us
+UNIVERSITY OF COLORADO,United States,Harvard Medical School/Harvard University,United States,North-North,us
+UNIVERSITY OF COLORADO,United States,Morehouse School of Medicine,United States,North-North,us
+UNIVERSITY OF COLORADO,United States,Northwestern University/Northwestern School of Medicine,United States,North-North,us
+UNIVERSITY OF COLORADO,United States,Stanford University/Stanford University School of Medicine,United States,North-North,us
+UNIVERSITY OF COLORADO,United States,University of Michigan,United States,North-North,us
+UNIVERSITY OF COLORADO,United States,University of Pennsylvania/Perelman School of Medicine,United States,North-North,us
+UNIVERSITY OF COLORADO,United States,University of Texas Southwestern,United States,North-North,us
+UNIVERSITY OF COLORADO,United States,Washington University St. Louis,United States,North-North,us
+UNIVERSITY OF MARYLAND BALTIMORE,United States,"Center for Bioethics and Research, Nigeria",Nigeria,North-South,us
+"CELDARA MEDICAL, LLC",United States,Brown University,United States,North-North,us
+"CELDARA MEDICAL, LLC",United States,Dartmouth College,United States,North-North,us
+"CELDARA MEDICAL, LLC",United States,Maine Medical Center,United States,North-North,us
+"CELDARA MEDICAL, LLC",United States,MDI Biological Laboratory,United States,North-North,us
+"CELDARA MEDICAL, LLC",United States,University of Delaware,United States,North-North,us
+"CELDARA MEDICAL, LLC",United States,University of New Hampshire,United States,North-North,us
+"CELDARA MEDICAL, LLC",United States,University of Rhode Island,United States,North-North,us
+"CELDARA MEDICAL, LLC",United States,University of Vermont,United States,North-North,us
+HARVARD UNIVERSITY D/B/A HARVARD SCHOOL OF PUBLIC HEALTH,United States,Heidelberg University,Germany,North-North,us
+HARVARD UNIVERSITY D/B/A HARVARD SCHOOL OF PUBLIC HEALTH,United States,University of KwaZulu-Natal,South Africa,North-South,us
+COLUMBIA UNIVERSITY HEALTH SCIENCES,United States,Addis Ababa University,Ethiopia,North-South,us
+COLUMBIA UNIVERSITY HEALTH SCIENCES,United States,University of Nairobi,Kenya,North-South,us
+UNIVERSITY OF PITTSBURGH AT PITTSBURGH,United States,Centers for Disease Control and Prevention,United States,North-North,us
+"NEW HAMPSHIRE ACADEMY OF SCIENCE, INC.",United States,Colby-Sawyer College,United States,North-North,us
+OHIO STATE UNIVERSITY,United States,American Association of Cancer Institute (AACI) member institutions,United States,North-North,us
+INDIANA UNIVERSITY INDIANAPOLIS,United States,Moi University College of Health Sciences,Kenya,North-South,us
+INDIANA UNIVERSITY INDIANAPOLIS,United States,Moi University School of Public Health,Kenya,North-South,us
+INDIANA UNIVERSITY INDIANAPOLIS,United States,Moi University School of Medicine,Kenya,North-South,us
+INDIANA UNIVERSITY INDIANAPOLIS,United States,Academic Model Providing Access to Healthcare (AMPATH) Consortium,Multiple (North American and European Universities),North-North,us
+WASHINGTON UNIVERSITY,United States,University of North Carolina at Chapel Hill,United States,North-North,us
+WASHINGTON UNIVERSITY,United States,Georgia State University,United States,North-North,us
+WASHINGTON UNIVERSITY,United States,Northeastern University,United States,North-North,us
+WASHINGTON UNIVERSITY,United States,Wake Forest University,United States,North-North,us
+CASE WESTERN RESERVE UNIVERSITY,United States,Cleveland Metropolitan School District,United States,North-North,us
+CASE WESTERN RESERVE UNIVERSITY,United States,East Cleveland Schools,United States,North-North,us
+LSU HEALTH SCIENCES CENTER,United States,Ocean Road Cancer Institute (ORCI),Tanzania,North-South,us
+LSU HEALTH SCIENCES CENTER,United States,Stanley S. Scott Cancer Center (SSSCC),United States,North-North,us
+UNIVERSITY OF MICHIGAN AT ANN ARBOR,United States,Hampton University,United States,North-North,us
+UNIVERSITY OF MICHIGAN AT ANN ARBOR,United States,Fisk University,United States,North-North,us
+YALE UNIVERSITY,United States,CT Department of Public Health,United States,North-North,us
+JACKSON LABORATORY,United States,Johns Hopkins University,United States,North-North,us
+YALE UNIVERSITY,United States,Stanford University,United States,North-North,us
+YALE UNIVERSITY,United States,University of Arizona,United States,North-North,us
+YALE UNIVERSITY,United States,"University of California, Berkeley",United States,North-North,us
+UNIVERSITY OF MASSACHUSETTS AMHERST,United States,Girls Inc.,United States,North-North,us
+INDIANA UNIVERSITY INDIANAPOLIS,United States,University of Utah,United States,North-North,us
+UNIVERSITY OF CALIFORNIA AT DAVIS,United States,National Cancer Institute of Colombia,Colombia,North-North,us
+UNIVERSITY OF CALIFORNIA AT DAVIS,United States,National Cancer Institute of Peru,Peru,North-North,us
+BAYLOR COLLEGE OF MEDICINE,United States,University of Eswatini,Eswatini,North-South,us
+BAYLOR COLLEGE OF MEDICINE,United States,Eswatini Ministry of Health,Eswatini,North-South,us
+BAYLOR COLLEGE OF MEDICINE,United States,University of Texas School of Public Health,United States,North-North,us
+MEHARRY MEDICAL COLLEGE,United States,Vanderbilt Ingram Cancer Center,United States,North-North,us
+COLUMBIA UNIVERSITY HEALTH SCIENCES,United States,USTTB,Mali,North-South,us
+HOWARD UNIVERSITY,United States,Johns Hopkins University,United States,North-North,us
+NORTHWESTERN UNIVERSITY,United States,"University of Sciences, Techniques, and Technologies of Bamako (USTTB)",Mali,North-South,us
+CALIFORNIA STATE UNIVERSITY FULLERTON,United States,University of Southern California,United States,North-North,us
+NORTHWESTERN UNIVERSITY,United States,University of Abuja,Nigeria,North-South,us
+NORTHWESTERN UNIVERSITY,United States,University of Abuja Teaching Hospital,Nigeria,North-South,us
+COLUMBIA UNIVERSITY HEALTH SCIENCES,United States,City University of New York (CUNY),United States,North-North,us
+UNIVERSITY OF ROCHESTER,United States,Rochester School for the Deaf,United States,North-North,us
+UNIVERSITY OF CALIFORNIA LOS ANGELES,United States,University of Buea,Cameroon,North-South,us
+DANA-FARBER CANCER INST,United States,Harvard Cancer Center,United States,North-North,us
+NORTHERN CALIFORNIA INSTITUTE/RES/EDU,United States,Medical University of South Carolina,United States,North-North,us
+NORTHERN CALIFORNIA INSTITUTE/RES/EDU,United States,American Academy of Neurology,United States,North-North,us
+H. LEE MOFFITT CANCER CTR & RES INST,United States,Korle-Bu Teaching Hospital,Ghana,North-South,us
+H. LEE MOFFITT CANCER CTR & RES INST,United States,University of Ghana,Ghana,North-South,us
+H. LEE MOFFITT CANCER CTR & RES INST,United States,Ghana College of Physician and Surgeons,Ghana,North-South,us
+H. LEE MOFFITT CANCER CTR & RES INST,United States,University of Ghana Medical School,Ghana,North-South,us
+H. LEE MOFFITT CANCER CTR & RES INST,United States,University of Ghana School of Public Health,Ghana,North-South,us
+H. LEE MOFFITT CANCER CTR & RES INST,United States,University of Ghana Nursing School,Ghana,North-South,us
+UNIVERSITY OF NEBRASKA MEDICAL CENTER,United States,University of Nebraska Omaha,United States,North-North,us
+BOSTON UNIVERSITY MEDICAL CAMPUS,United States,"University of Liberia, College of Health Sciences",Liberia,North-South,us
+BOSTON UNIVERSITY MEDICAL CAMPUS,United States,Liberian Institute of Biomedical Research,Liberia,North-South,us
+BOSTON UNIVERSITY MEDICAL CAMPUS,United States,National Public Health Institute of Liberia,Liberia,North-South,us
+BOSTON UNIVERSITY MEDICAL CAMPUS,United States,Partnership for Research on Ebola Virus in Liberia,Liberia,North-South,us
+BOSTON UNIVERSITY MEDICAL CAMPUS,United States,Research Sustainability Initiative in Liberia,Liberia,North-South,us
+UNIVERSITY OF CHICAGO,United States,University of Kentucky Markey Cancer Center,United States,North-North,us
+UNIVERSITY OF CHICAGO,United States,University of Michigan Rogel Cancer Center,United States,North-North,us
+UNIVERSITY OF CHICAGO,United States,University of Pennsylvania Abramson Cancer Center,United States,North-North,us
+UNIVERSITY OF CHICAGO,United States,University of Texas at Austin Livestrong Cancer Institutes,United States,North-North,us
+BROWN UNIVERSITY,United States,Rhode Island Department of Health,United States,North-North,us
+UNIVERSITY OF TEXAS MED BR GALVESTON,United States,Njala University,Sierra Leone,North-South,us
+UNIVERSITY OF TEXAS MED BR GALVESTON,United States,Jos University,Nigeria,North-South,us
+INDIANA UNIVERSITY INDIANAPOLIS,United States,Makerere University,Uganda,North-South,us
+CHARLES R. DREW UNIVERSITY OF MED & SCI,United States,"University of California, Los Angeles (UCLA)",United States,North-North,us
+UNIVERSITY OF HAWAII AT MANOA,United States,University of Guam,Guam,North-North,us
+JOSLIN DIABETES CENTER,United States,Beth Israel Deaconess Medical Center (BIDMC),United States,North-North,us

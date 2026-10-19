@@ -1,0 +1,10 @@
+country,agencies_ai,agencies_dh,shared_agencies,jaccard,shared_examples
+Ethiopia,8,1,1,0.125,ministry of health
+Ghana,12,3,0,0.0,
+Kenya,13,9,1,0.048,ministry of information
+Mauritius,3,6,1,0.125,ministry of information technology
+Nigeria,7,2,1,0.125,ministry of health
+Rwanda,6,4,1,0.111,institute of statistics
+Senegal,1,0,0,0.0,
+South Africa,9,10,1,0.056,department of science
+Zambia,4,8,1,0.091,ministry of technology

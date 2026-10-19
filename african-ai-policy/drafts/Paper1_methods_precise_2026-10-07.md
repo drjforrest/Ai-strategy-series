@@ -1,0 +1,1 @@
+../papers/paper-1-rhetoric-readiness/notes/Paper1_methods_precise_2026-10-07.md

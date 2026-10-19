@@ -5,7 +5,9 @@ canonical ``<country>_ai.txt`` target (from ``config.COUNTRY_FILES``) by fuzzy
 country-name matching on the filename. The WHO strategy PDF, if present, is
 written to ``config.WHO_STRATEGY_TXT``.
 
-Existing .txt targets are skipped unless ``--force`` is given.
+Existing .txt targets are skipped unless ``--force`` is given, or unless the
+.target is empty (0 bytes) — an empty target from a previously failed run is
+retried rather than trusted.
 
     python -m scripts.extract_pdfs           # extract what is missing
     python -m scripts.extract_pdfs --force   # re-extract everything
@@ -145,7 +147,9 @@ def main() -> int:
         print(f"  ! skipped (no country match): {pdf.name}")
 
     for country, (target, pdfs) in countries.items():
-        if target.exists() and not args.force:
+        # Skip only when a NON-EMPTY target already exists. A 0-byte target (from a
+        # previously failed extraction) must be retried, not trusted.
+        if target.exists() and target.stat().st_size > 0 and not args.force:
             skipped += 1
             continue
         try:

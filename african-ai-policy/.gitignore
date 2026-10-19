@@ -24,3 +24,8 @@ outputs/heatmaps/*.png
 # OS
 .DS_Store
 excalidraw.log
+
+# Secrets and census search artefacts
+.env
+.env.*
+data/inbox/census_pdfs/

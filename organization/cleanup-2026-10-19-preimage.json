@@ -1,0 +1,1271 @@
+[
+  {
+    "path": "manuscripts/.DS_Store",
+    "type": "file",
+    "sha256": "875585602927686dac509dc184c4c5ea6391f2b0135ff255ff9749fdfab7d7fc",
+    "bytes": 8196
+  },
+  {
+    "path": "manuscripts/canada-competency-demand/README.md",
+    "type": "file",
+    "sha256": "cb9e00651f9ef0e4582cdb510a54168d210f18af05af4cc035ebbc66364fc633",
+    "bytes": 399
+  },
+  {
+    "path": "manuscripts/canada-competency-demand/design/Canada_competency_demand_design_memo_2026-10-16.md",
+    "type": "file",
+    "sha256": "35b94120016ee39d0e8158f0ea08576351a30c2eddb29c371728a34ef5d165ea",
+    "bytes": 12014
+  },
+  {
+    "path": "manuscripts/canada-competency-demand/source-monitor",
+    "type": "symlink",
+    "target": "../../../digital-health-canada"
+  },
+  {
+    "path": "manuscripts/paper-1-rhetoric-readiness/README.md",
+    "type": "file",
+    "sha256": "f07d4e5021f99c438ed4fb9106fa68b4928cd02477c5618086f031fada09466c",
+    "bytes": 457
+  },
+  {
+    "path": "manuscripts/paper-1-rhetoric-readiness/figures",
+    "type": "symlink",
+    "target": "../../outputs/figures_for_manuscript"
+  },
+  {
+    "path": "manuscripts/paper-1-rhetoric-readiness/latest-corpus-changes.md",
+    "type": "symlink",
+    "target": "../../outputs/Paper1_number_changes_with_Lesotho_2026-10-16.md"
+  },
+  {
+    "path": "manuscripts/paper-1-rhetoric-readiness/manuscript/Rhetoric-Readiness_BMJGH_v3.0-for coauthor feedback-14-Oct-26.docx",
+    "type": "file",
+    "sha256": "6b61772830988ee35c58018227e76a62ccaf468a6644cbf979c15074b172198e",
+    "bytes": 481361
+  },
+  {
+    "path": "manuscripts/paper-1-rhetoric-readiness/manuscript/Rhetoric-Readiness_BMJGH_v3.0-for coauthor feedback-14-Oct-26.pdf",
+    "type": "file",
+    "sha256": "0be9e9b6252f7ba2d5119a510fc6be83f42b04454a71c7863b2d69b1b63104c6",
+    "bytes": 726075
+  },
+  {
+    "path": "manuscripts/paper-1-rhetoric-readiness/notes/Paper1_BMJGH_manuscript_v2.0_12plusAU_2026-10-05.md",
+    "type": "file",
+    "sha256": "e66a62798319c455d436f73cc7914d69186f925bee12bc575e1221371bad1198",
+    "bytes": 58941
+  },
+  {
+    "path": "manuscripts/paper-1-rhetoric-readiness/notes/Paper1_methods_precise_2026-10-07.md",
+    "type": "file",
+    "sha256": "090100ecb0540eb6d1cc9387258b018a86798054d815430331a1ea660cb5f725",
+    "bytes": 11386
+  },
+  {
+    "path": "manuscripts/paper-1-rhetoric-readiness/notes/Paper1_reconceptualised_abstract.md",
+    "type": "file",
+    "sha256": "8fa82d7292dfbc11ac00c7c1b81a803bfab6b121de2ae73caf32a09b08a7eb04",
+    "bytes": 5517
+  },
+  {
+    "path": "manuscripts/paper-1-rhetoric-readiness/notes/Paper1_v2.0_self_peer_review_2026-10-05.md",
+    "type": "file",
+    "sha256": "47f9b1f0694d160b01c08113c4aa0c9b92d1e75e5120e18b9399908df7adfccf",
+    "bytes": 10787
+  },
+  {
+    "path": "manuscripts/paper-1-rhetoric-readiness/tables/Paper1_tables_corpus_v2_2026-10-14.docx",
+    "type": "file",
+    "sha256": "69780715ff17e049a75e4ae8c3dc379a6b6c6fac6991e7f66b847c40b193c7db",
+    "bytes": 44247
+  },
+  {
+    "path": "manuscripts/paper-2-policy-connectivity/README.md",
+    "type": "file",
+    "sha256": "5879af8f61aadaf71731c296b613495f92ba041dd98257cfaa64283bc2a5ebfe",
+    "bytes": 279
+  },
+  {
+    "path": "manuscripts/paper-2-policy-connectivity/conference/Paper2_HIMSS_extended_abstract.md",
+    "type": "file",
+    "sha256": "420d8f7e2b413d2b7ede2c103c242f1154b5880dede8c9f8d1b7f52fabc16b40",
+    "bytes": 7731
+  },
+  {
+    "path": "manuscripts/paper-2-policy-connectivity/conference/Paper2_HIMSS_poster_extended_abstract.md",
+    "type": "file",
+    "sha256": "2afd7415a5fb92083b975ebcd16dfb41a742cb308e162a2f76adc8e79049b371",
+    "bytes": 7755
+  },
+  {
+    "path": "manuscripts/paper-2-policy-connectivity/conference/Paper2_HIMSS_poster_proposal.md",
+    "type": "file",
+    "sha256": "3a8a8778a61c6d1a887d7487db6d385ea674eedfdf34d91dd063980205288341",
+    "bytes": 8048
+  },
+  {
+    "path": "manuscripts/paper-2-policy-connectivity/conference/Paper2_HIMSS_submission_FINAL_2026-10-05.md",
+    "type": "file",
+    "sha256": "c135bc2c8cf3c01786defb3b774dc153ffc36d1d67e3a492f52ca2367d6b3c03",
+    "bytes": 10364
+  },
+  {
+    "path": "manuscripts/paper-2-policy-connectivity/connectivity-results",
+    "type": "symlink",
+    "target": "../../outputs/connectivity"
+  },
+  {
+    "path": "manuscripts/paper-2b-canada-policy/.DS_Store",
+    "type": "file",
+    "sha256": "d114c957b53d257b4f2bf439f87ec07f935e8844938f35535a4e1109de4c8251",
+    "bytes": 6148
+  },
+  {
+    "path": "manuscripts/paper-2b-canada-policy/README.md",
+    "type": "file",
+    "sha256": "8670ef089fb8fffbe36ec5ab2f669cc6ac306922ae339c62aa96cc539c703772",
+    "bytes": 1826
+  },
+  {
+    "path": "manuscripts/paper-2b-canada-policy/analysis",
+    "type": "symlink",
+    "target": "../../paper2b_canada_ecosystem"
+  },
+  {
+    "path": "manuscripts/paper-2b-canada-policy/archive/Paper2b_eHealth27_abstract_draft_v0.1_2026-10-15.docx",
+    "type": "file",
+    "sha256": "5cb0548072cae32be976076b87da0324ae070fb38713f0326439e44119502204",
+    "bytes": 38876
+  },
+  {
+    "path": "manuscripts/paper-2b-canada-policy/archive/Paper2b_eHealth27_abstract_draft_v0.2_2026-10-15.docx",
+    "type": "file",
+    "sha256": "b7bde2ca375b36d6deea52988c786dbf1264f49a601634be7db472bf5dcf1c60",
+    "bytes": 38721
+  },
+  {
+    "path": "manuscripts/paper-2b-canada-policy/archive/Paper2b_v0.2_number_verification_2026-10-15.md",
+    "type": "file",
+    "sha256": "844eda65ffca14aa7191225cfe5a91ff1ea2319782a0456e27e74835f8eac233",
+    "bytes": 4317
+  },
+  {
+    "path": "manuscripts/paper-2b-canada-policy/earlier-canada-benchmark",
+    "type": "symlink",
+    "target": "../../outputs/canada"
+  },
+  {
+    "path": "manuscripts/paper-2b-canada-policy/notes/Canada_benchmark_findings_2026-10-06.md",
+    "type": "file",
+    "sha256": "59f990fd590a4491b325354b705364d428af64abc1e61f7afe43c91dbb231249",
+    "bytes": 6650
+  },
+  {
+    "path": "manuscripts/paper-2b-canada-policy/notes/Canada_rethink_CDHS_2026-10-18.md",
+    "type": "file",
+    "sha256": "8786dd33ce92b92c5f1b623d45f1ae379a5617a7c2dc3e69a225a29e176e0920",
+    "bytes": 12808
+  },
+  {
+    "path": "manuscripts/paper-2b-canada-policy/notes/Paper2b_curriculum_policy_protocol_2026-10-19.md",
+    "type": "file",
+    "sha256": "7b67932bfad711b36bc9548f5a9b8a43c5f02a64be0cf797887d827044dad760",
+    "bytes": 10271
+  },
+  {
+    "path": "manuscripts/paper-2b-canada-policy/notes/Paper2b_number_verification_2026-10-15.md",
+    "type": "file",
+    "sha256": "f6a7e208a2f9ef13e784f69ca70c320d88f2f35c06e294f748c8dc8ed6c64dbf",
+    "bytes": 3824
+  },
+  {
+    "path": "manuscripts/paper-2b-canada-policy/notes/Paper2b_reframe_assessment_2026-10-15.md",
+    "type": "file",
+    "sha256": "b7d00bc54fc7394716f5c029bf72f2f6bd29556b9e6c95c942dcdc47b7e8e410",
+    "bytes": 19235
+  },
+  {
+    "path": "manuscripts/paper-2b-canada-policy/notes/Paper2b_v0.3_number_verification_2026-10-15.md",
+    "type": "file",
+    "sha256": "f08e56291dff4c3509f56d520e00f5b9b997cb28769e89e2d47fc009cc3d0795",
+    "bytes": 5372
+  },
+  {
+    "path": "manuscripts/paper-3-workforce-capacity/README.md",
+    "type": "file",
+    "sha256": "8a559cb9f8ab6758d0478447fa329a3d0216a78ff04e50d9d35b4ede69fa3e70",
+    "bytes": 548
+  },
+  {
+    "path": "manuscripts/paper-3-workforce-capacity/archive/Overlap_audit_Paper3_vs_JAMIA_2026-10-15.md",
+    "type": "file",
+    "sha256": "6275fb96773c0ef87cb89d5056f83d2a9c210d46cde047140a9aaf5f289d5488",
+    "bytes": 834
+  },
+  {
+    "path": "manuscripts/paper-3-workforce-capacity/census.xlsx",
+    "type": "symlink",
+    "target": "../../data/paper3_programme_census.xlsx"
+  },
+  {
+    "path": "manuscripts/paper-3-workforce-capacity/early-partnership-scoping",
+    "type": "symlink",
+    "target": "../../../hi-africa-partnerships"
+  },
+  {
+    "path": "manuscripts/paper-3-workforce-capacity/notes/Paper3_vs_hi-africa-partnerships_relationship_2026-10-15.md",
+    "type": "file",
+    "sha256": "4ce72b8a5a60dfbf423a0729247694d8c7502987859b1e301a8b5ceecb583328",
+    "bytes": 3833
+  },
+  {
+    "path": "manuscripts/paper-3-workforce-capacity/protocol/Paper3_protocol_v0.1_2026-10-05.md",
+    "type": "file",
+    "sha256": "e79589351656170c4d789df8ebe4d60565a7c41688e16d7020a0a564436b6e36",
+    "bytes": 13573
+  },
+  {
+    "path": "manuscripts/paper-3-workforce-capacity/protocol/Paper3_two_system_design_addendum_2026-10-15.md",
+    "type": "file",
+    "sha256": "53b13fab972cc2282194c09d1bd02016fd660f67766246c1f2c4339c776ce242",
+    "bytes": 6450
+  },
+  {
+    "path": "manuscripts/paper-4-policy-capital/README.md",
+    "type": "file",
+    "sha256": "083b5e5501a2cc8d478050623e2f3bdeb77ec3e806e3011ae631ffdf942bb112",
+    "bytes": 321
+  },
+  {
+    "path": "manuscripts/paper-4-policy-capital/investment-sources",
+    "type": "symlink",
+    "target": "../../data/investment"
+  },
+  {
+    "path": "manuscripts/paper-4-policy-capital/scoping/Health_salience_in_AI_strategies_2026-10-06.md",
+    "type": "file",
+    "sha256": "8081cebd87ee5b9519a545bc529b4875e775aa2869f8b3913518d46f7cc353cd",
+    "bytes": 4610
+  },
+  {
+    "path": "manuscripts/paper-4-policy-capital/scoping/Policy_vs_capital_divergence_2026-10-06.md",
+    "type": "file",
+    "sha256": "a3d3346282f341d0cebae3354580a30878600ad488fbf2df3a50b8a2bfd17bf5",
+    "bytes": 5670
+  },
+  {
+    "path": "manuscript-review-2026-10-19/Canadian_health_informatics_programmes_v1.1_edited.docx",
+    "type": "file",
+    "sha256": "efd173ca1b99367e879223b8e951cfd342d69aca5d64d476dbb87df0f5eb9e3a",
+    "bytes": 988763
+  },
+  {
+    "path": "manuscript-review-2026-10-19/Canadian_health_informatics_programmes_v1.1_tracked_review.docx",
+    "type": "file",
+    "sha256": "a7da152e539257107f15289a94343fb0065f8d9c82a8d28920b42aec6348c77a",
+    "bytes": 1007094
+  },
+  {
+    "path": "manuscript-review-2026-10-19/edit-audit.json",
+    "type": "file",
+    "sha256": "53cb377860c0611800aff32c9d18f05779db3696cdf4d28f70d94c386042b036",
+    "bytes": 71730
+  },
+  {
+    "path": "manuscript-review-2026-10-19/edit_manuscript.py",
+    "type": "file",
+    "sha256": "14f485a8d4a7d23ee141246e12c487f5e08c1b8d78b96007907907dcd417d5da",
+    "bytes": 40541
+  },
+  {
+    "path": "manuscript-review-2026-10-19/edited-0.jpg",
+    "type": "file",
+    "sha256": "b9f283c6815d08af4a7e9285840a26aa1e6f5982be7598a774ff3ed4039bec0b",
+    "bytes": 230101
+  },
+  {
+    "path": "manuscript-review-2026-10-19/edited-12.jpg",
+    "type": "file",
+    "sha256": "c59946bec3894480e3991f56facddd5e62f2b5157803696245fcd0585db3223b",
+    "bytes": 229917
+  },
+  {
+    "path": "manuscript-review-2026-10-19/edited-18.jpg",
+    "type": "file",
+    "sha256": "752c44574c97e89cdab64e1859f781d0a4140e451cfd829443f6621b5e8d1486",
+    "bytes": 214543
+  },
+  {
+    "path": "manuscript-review-2026-10-19/edited-24.jpg",
+    "type": "file",
+    "sha256": "87c5a77a2b308ac8676e2e0665cce0bd7eec3bd10504172408d543127afe7328",
+    "bytes": 58798
+  },
+  {
+    "path": "manuscript-review-2026-10-19/edited-6.jpg",
+    "type": "file",
+    "sha256": "2a6427e4e78a72b7d1662f3c0c210ca12d13d58ded93c79fae86efaa1c8e5906",
+    "bytes": 251924
+  },
+  {
+    "path": "manuscript-review-2026-10-19/edited-render/Canadian_health_informatics_programmes_v1.1_edited.pdf",
+    "type": "file",
+    "sha256": "ba47554eb3384975822ca747afacb594769e1d307a19ba66e5b0f4fc39407600",
+    "bytes": 1379960
+  },
+  {
+    "path": "manuscript-review-2026-10-19/edited-render/page-1.png",
+    "type": "file",
+    "sha256": "eeb472d77e6487ec111cf197f4ec4cb160d355f4f105c0a983d6b0436b51b050",
+    "bytes": 147475
+  },
+  {
+    "path": "manuscript-review-2026-10-19/edited-render/page-10.png",
+    "type": "file",
+    "sha256": "bbed596bcc22718044db24f7eba4076c1350cf59e272c8bd4124b38649d43da7",
+    "bytes": 329888
+  },
+  {
+    "path": "manuscript-review-2026-10-19/edited-render/page-11.png",
+    "type": "file",
+    "sha256": "041c6c69fc64e7f04295cad8338f602149b4e5cc1ee2505b0f0684b3e071c29e",
+    "bytes": 401435
+  },
+  {
+    "path": "manuscript-review-2026-10-19/edited-render/page-12.png",
+    "type": "file",
+    "sha256": "00d3bb1866d1c509221e58f0d28ec66178763c5def297c3c2bd590a788420fae",
+    "bytes": 355233
+  },
+  {
+    "path": "manuscript-review-2026-10-19/edited-render/page-13.png",
+    "type": "file",
+    "sha256": "1a39c7c3cec28b696b85523912a70b2bfe4ef450f6a693df7a63556fed407b80",
+    "bytes": 368602
+  },
+  {
+    "path": "manuscript-review-2026-10-19/edited-render/page-14.png",
+    "type": "file",
+    "sha256": "20d4466e8572a79f19a44d8846d146376bb77156b63cfc7fa7245b1dfd6b76cd",
+    "bytes": 360917
+  },
+  {
+    "path": "manuscript-review-2026-10-19/edited-render/page-15.png",
+    "type": "file",
+    "sha256": "96261f190f695746ab2adfef1da7806dc63bb2b181b5ae45e7f9bc2e57471670",
+    "bytes": 289733
+  },
+  {
+    "path": "manuscript-review-2026-10-19/edited-render/page-16.png",
+    "type": "file",
+    "sha256": "ac97328edb00cb880f3243b6ade050d7520d4e679866c97324b5663e365ffc56",
+    "bytes": 339724
+  },
+  {
+    "path": "manuscript-review-2026-10-19/edited-render/page-17.png",
+    "type": "file",
+    "sha256": "8f81ca8261be655f2d11d72e1bd64a2d0e246bb6f6d18f4e8739d31048f63b9f",
+    "bytes": 384853
+  },
+  {
+    "path": "manuscript-review-2026-10-19/edited-render/page-18.png",
+    "type": "file",
+    "sha256": "2ccd80ab03f7ea56fc4766300b06aca0cae75ab8bc4099f7b4712165a6ecf5f0",
+    "bytes": 533864
+  },
+  {
+    "path": "manuscript-review-2026-10-19/edited-render/page-19.png",
+    "type": "file",
+    "sha256": "71532bdbd6170e97306d9e45dd16abc0771c71815101df0ac9fe2456291bae6e",
+    "bytes": 523046
+  },
+  {
+    "path": "manuscript-review-2026-10-19/edited-render/page-2.png",
+    "type": "file",
+    "sha256": "0a12705b16d3d6cba1b0a53aeb19db38ec1a56050da99dad8bba7d4a4c2da75b",
+    "bytes": 282964
+  },
+  {
+    "path": "manuscript-review-2026-10-19/edited-render/page-20.png",
+    "type": "file",
+    "sha256": "34202e76965cab526e62e618796a9d98432e413cf34998b53c3d8e4321717284",
+    "bytes": 478024
+  },
+  {
+    "path": "manuscript-review-2026-10-19/edited-render/page-21.png",
+    "type": "file",
+    "sha256": "569544e2e039f9849e8990c0a404ebbe80e28cde48f9ee091a4a984f8642567f",
+    "bytes": 528630
+  },
+  {
+    "path": "manuscript-review-2026-10-19/edited-render/page-22.png",
+    "type": "file",
+    "sha256": "8331db49391303fd1f1524c592dd4e0a5603f77587bd59da01e0ecaeb0da1250",
+    "bytes": 521663
+  },
+  {
+    "path": "manuscript-review-2026-10-19/edited-render/page-23.png",
+    "type": "file",
+    "sha256": "0eb2fda99dd9d510fe9a2bd2364de6d8ab3ba8339041a42279a650a6b51aae5a",
+    "bytes": 472254
+  },
+  {
+    "path": "manuscript-review-2026-10-19/edited-render/page-24.png",
+    "type": "file",
+    "sha256": "1adbec96b9f7f9635c986e00cad88100d5186289186b86f735bd957e737c1ca0",
+    "bytes": 386499
+  },
+  {
+    "path": "manuscript-review-2026-10-19/edited-render/page-25.png",
+    "type": "file",
+    "sha256": "2e08b2de1f3b49fd2261a968c32e9a0a35d0199353d3196f0c8486c0f4d97438",
+    "bytes": 496825
+  },
+  {
+    "path": "manuscript-review-2026-10-19/edited-render/page-26.png",
+    "type": "file",
+    "sha256": "bca81dba1b5be0f4fccdccf4df8f2ae8f17ac47e73af889e1ff36d52604a037e",
+    "bytes": 566373
+  },
+  {
+    "path": "manuscript-review-2026-10-19/edited-render/page-3.png",
+    "type": "file",
+    "sha256": "89fe8f1bed0f8fed2bb889603d6feca6b74e775d8209a26686a03945cf90803a",
+    "bytes": 385257
+  },
+  {
+    "path": "manuscript-review-2026-10-19/edited-render/page-4.png",
+    "type": "file",
+    "sha256": "108287c0549b77e138c7cf84a4832da4b0670cced1af6510632c492632fe3daa",
+    "bytes": 421598
+  },
+  {
+    "path": "manuscript-review-2026-10-19/edited-render/page-5.png",
+    "type": "file",
+    "sha256": "5474ccb915c02d1c32bd9d8fa84978280a23c04fa0a235566127a2b4cb216a21",
+    "bytes": 370819
+  },
+  {
+    "path": "manuscript-review-2026-10-19/edited-render/page-6.png",
+    "type": "file",
+    "sha256": "21c8710b4c15f4bd9df8e2fa01fa335de2e1520f90493755d0c7eb3662de1cd2",
+    "bytes": 393166
+  },
+  {
+    "path": "manuscript-review-2026-10-19/edited-render/page-7.png",
+    "type": "file",
+    "sha256": "e4923f0414d72aff3f1e9133b571087741777e271bd40bc6b766bc7694aef914",
+    "bytes": 351600
+  },
+  {
+    "path": "manuscript-review-2026-10-19/edited-render/page-8.png",
+    "type": "file",
+    "sha256": "942b6883fcae9201dbfd81d8e5a342c5582c8c9599acf520e1ed5de50deeb147",
+    "bytes": 379723
+  },
+  {
+    "path": "manuscript-review-2026-10-19/edited-render/page-9.png",
+    "type": "file",
+    "sha256": "d5ba681add06c3ea6b531b5d5ad11c595a175076b8c7b5e8c50db0838f3a1e4e",
+    "bytes": 365848
+  },
+  {
+    "path": "manuscript-review-2026-10-19/figure1.png",
+    "type": "file",
+    "sha256": "a774f47ddbce7fad456365f6d2d1df2516ea125b8b27bae3a6630cc21edbdcf6",
+    "bytes": 195286
+  },
+  {
+    "path": "manuscript-review-2026-10-19/final-last.jpg",
+    "type": "file",
+    "sha256": "89fa912be12b4d3f01321ce331e996a6db3918cf352deca4cd6b47a2feb82215",
+    "bytes": 128970
+  },
+  {
+    "path": "manuscript-review-2026-10-19/final-render/Canadian_health_informatics_programmes_v1.1_edited.pdf",
+    "type": "file",
+    "sha256": "25745a3cc38f19c2ccb4e9ba728cd37bd2862379aa95d30785ec718fc01f0d14",
+    "bytes": 1283006
+  },
+  {
+    "path": "manuscript-review-2026-10-19/final-render/page-1.png",
+    "type": "file",
+    "sha256": "eeb472d77e6487ec111cf197f4ec4cb160d355f4f105c0a983d6b0436b51b050",
+    "bytes": 147475
+  },
+  {
+    "path": "manuscript-review-2026-10-19/final-render/page-10.png",
+    "type": "file",
+    "sha256": "bbed596bcc22718044db24f7eba4076c1350cf59e272c8bd4124b38649d43da7",
+    "bytes": 329888
+  },
+  {
+    "path": "manuscript-review-2026-10-19/final-render/page-11.png",
+    "type": "file",
+    "sha256": "041c6c69fc64e7f04295cad8338f602149b4e5cc1ee2505b0f0684b3e071c29e",
+    "bytes": 401435
+  },
+  {
+    "path": "manuscript-review-2026-10-19/final-render/page-12.png",
+    "type": "file",
+    "sha256": "00d3bb1866d1c509221e58f0d28ec66178763c5def297c3c2bd590a788420fae",
+    "bytes": 355233
+  },
+  {
+    "path": "manuscript-review-2026-10-19/final-render/page-13.png",
+    "type": "file",
+    "sha256": "1a39c7c3cec28b696b85523912a70b2bfe4ef450f6a693df7a63556fed407b80",
+    "bytes": 368602
+  },
+  {
+    "path": "manuscript-review-2026-10-19/final-render/page-14.png",
+    "type": "file",
+    "sha256": "20d4466e8572a79f19a44d8846d146376bb77156b63cfc7fa7245b1dfd6b76cd",
+    "bytes": 360917
+  },
+  {
+    "path": "manuscript-review-2026-10-19/final-render/page-15.png",
+    "type": "file",
+    "sha256": "96261f190f695746ab2adfef1da7806dc63bb2b181b5ae45e7f9bc2e57471670",
+    "bytes": 289733
+  },
+  {
+    "path": "manuscript-review-2026-10-19/final-render/page-16.png",
+    "type": "file",
+    "sha256": "ac97328edb00cb880f3243b6ade050d7520d4e679866c97324b5663e365ffc56",
+    "bytes": 339724
+  },
+  {
+    "path": "manuscript-review-2026-10-19/final-render/page-17.png",
+    "type": "file",
+    "sha256": "3b49476418d053da11ce1d0f42e376bb05191813cbe8c08a4fdf24026df2f82f",
+    "bytes": 369614
+  },
+  {
+    "path": "manuscript-review-2026-10-19/final-render/page-18.png",
+    "type": "file",
+    "sha256": "6518cddde56944d1c8934582fc57a25bfa6650b8e1814588115e910295d38811",
+    "bytes": 529438
+  },
+  {
+    "path": "manuscript-review-2026-10-19/final-render/page-19.png",
+    "type": "file",
+    "sha256": "8433f2f6e23745f845c59ac3bc6d02eb1f27e349fecdc8426fd35b666076882d",
+    "bytes": 503267
+  },
+  {
+    "path": "manuscript-review-2026-10-19/final-render/page-2.png",
+    "type": "file",
+    "sha256": "0a12705b16d3d6cba1b0a53aeb19db38ec1a56050da99dad8bba7d4a4c2da75b",
+    "bytes": 282964
+  },
+  {
+    "path": "manuscript-review-2026-10-19/final-render/page-20.png",
+    "type": "file",
+    "sha256": "13b1e1e51c024a6b176c03ce6770d88b2b707519b73f7c00b8efff08206dc3fe",
+    "bytes": 465303
+  },
+  {
+    "path": "manuscript-review-2026-10-19/final-render/page-21.png",
+    "type": "file",
+    "sha256": "75ae72462912c6ccecdb5aba9828193f4dd151ca20622d2ae66b0855d40f7654",
+    "bytes": 465528
+  },
+  {
+    "path": "manuscript-review-2026-10-19/final-render/page-22.png",
+    "type": "file",
+    "sha256": "8567ffea66ba9f8ffc159b299cd4f8a0b99ee4b84b23047a21885831da337f74",
+    "bytes": 506970
+  },
+  {
+    "path": "manuscript-review-2026-10-19/final-render/page-23.png",
+    "type": "file",
+    "sha256": "f7d3e81a730b29b194edddbd4ff8d1072e5764b8060b9cebd2ea50d99c9cd841",
+    "bytes": 471908
+  },
+  {
+    "path": "manuscript-review-2026-10-19/final-render/page-24.png",
+    "type": "file",
+    "sha256": "aa54d2147ae8b5cbaa1628456f866c2f1cc89eb4be414056ba011c6035da56ca",
+    "bytes": 369821
+  },
+  {
+    "path": "manuscript-review-2026-10-19/final-render/page-25.png",
+    "type": "file",
+    "sha256": "2788b74b7ccd0144bec9c76918f3c64821550c2899b6be2063e0450969b812f8",
+    "bytes": 417426
+  },
+  {
+    "path": "manuscript-review-2026-10-19/final-render/page-26.png",
+    "type": "file",
+    "sha256": "55fa6b71c97aa76474407d793e5174b03a55d63c093a3f4020a34a488c35c05a",
+    "bytes": 47847
+  },
+  {
+    "path": "manuscript-review-2026-10-19/final-render/page-27.png",
+    "type": "file",
+    "sha256": "4cee9bcb41d3ca9eab2363a9c85a5fc61ec10ec0446e182f25cb92a1f80b2358",
+    "bytes": 266749
+  },
+  {
+    "path": "manuscript-review-2026-10-19/final-render/page-28.png",
+    "type": "file",
+    "sha256": "d2f440ed608684bc051d7bdb89e7938356bd0db1f708460e3429fea28b529597",
+    "bytes": 277893
+  },
+  {
+    "path": "manuscript-review-2026-10-19/final-render/page-29.png",
+    "type": "file",
+    "sha256": "31b3c3258c67aca4920a979b284f62d1b2f9a2ea37c7f9714eae8663030dfa7c",
+    "bytes": 534041
+  },
+  {
+    "path": "manuscript-review-2026-10-19/final-render/page-3.png",
+    "type": "file",
+    "sha256": "89fe8f1bed0f8fed2bb889603d6feca6b74e775d8209a26686a03945cf90803a",
+    "bytes": 385257
+  },
+  {
+    "path": "manuscript-review-2026-10-19/final-render/page-4.png",
+    "type": "file",
+    "sha256": "108287c0549b77e138c7cf84a4832da4b0670cced1af6510632c492632fe3daa",
+    "bytes": 421598
+  },
+  {
+    "path": "manuscript-review-2026-10-19/final-render/page-5.png",
+    "type": "file",
+    "sha256": "5474ccb915c02d1c32bd9d8fa84978280a23c04fa0a235566127a2b4cb216a21",
+    "bytes": 370819
+  },
+  {
+    "path": "manuscript-review-2026-10-19/final-render/page-6.png",
+    "type": "file",
+    "sha256": "21c8710b4c15f4bd9df8e2fa01fa335de2e1520f90493755d0c7eb3662de1cd2",
+    "bytes": 393166
+  },
+  {
+    "path": "manuscript-review-2026-10-19/final-render/page-7.png",
+    "type": "file",
+    "sha256": "e4923f0414d72aff3f1e9133b571087741777e271bd40bc6b766bc7694aef914",
+    "bytes": 351600
+  },
+  {
+    "path": "manuscript-review-2026-10-19/final-render/page-8.png",
+    "type": "file",
+    "sha256": "942b6883fcae9201dbfd81d8e5a342c5582c8c9599acf520e1ed5de50deeb147",
+    "bytes": 379723
+  },
+  {
+    "path": "manuscript-review-2026-10-19/final-render/page-9.png",
+    "type": "file",
+    "sha256": "d5ba681add06c3ea6b531b5d5ad11c595a175076b8c7b5e8c50db0838f3a1e4e",
+    "bytes": 365848
+  },
+  {
+    "path": "manuscript-review-2026-10-19/fix_layout.py",
+    "type": "file",
+    "sha256": "61447861560b56f0918a030f922bb532f7d155de830c91d912af09066d3bf43b",
+    "bytes": 5013
+  },
+  {
+    "path": "manuscript-review-2026-10-19/heatmap.png",
+    "type": "file",
+    "sha256": "8ebaa9365f82125430d5f774306cefbccaef5b0cb29f9dc185b9052a63a72f67",
+    "bytes": 189919
+  },
+  {
+    "path": "manuscript-review-2026-10-19/original-0.jpg",
+    "type": "file",
+    "sha256": "250f53e324e5e803491f6315233c64d59963c095c855ea4a00cdd84343b78c0e",
+    "bytes": 174904
+  },
+  {
+    "path": "manuscript-review-2026-10-19/original-12.jpg",
+    "type": "file",
+    "sha256": "7e744c55d1c349237e0690546e91c37e8688a686a27fc52610234a671b7165a0",
+    "bytes": 175225
+  },
+  {
+    "path": "manuscript-review-2026-10-19/original-24.jpg",
+    "type": "file",
+    "sha256": "300b0d7c75e86b8587813b89a5ddac48c9ec4ac60106ea064cb239552740eb1a",
+    "bytes": 30287
+  },
+  {
+    "path": "manuscript-review-2026-10-19/original-render/Canadian health informatics programmes_v1.0.pdf",
+    "type": "file",
+    "sha256": "fe770efe2ccc3451941a5f5fe6df311c07e333b251482d706f06091fd807dc67",
+    "bytes": 1383966
+  },
+  {
+    "path": "manuscript-review-2026-10-19/original-render/page-1.png",
+    "type": "file",
+    "sha256": "d9ba96aa1c659fec8b2f0e62a6f3b574ab8ed8b6c149558ba453fe9467fe40f2",
+    "bytes": 155876
+  },
+  {
+    "path": "manuscript-review-2026-10-19/original-render/page-10.png",
+    "type": "file",
+    "sha256": "3cf247c4c82af897ae611842d6f6c18d852e5918492d6a1fbc95a878966d5165",
+    "bytes": 370672
+  },
+  {
+    "path": "manuscript-review-2026-10-19/original-render/page-11.png",
+    "type": "file",
+    "sha256": "e955b1f5773c1923acdd19f5c734f6b60945d68bfa3720607017308f1c8b0c2b",
+    "bytes": 387189
+  },
+  {
+    "path": "manuscript-review-2026-10-19/original-render/page-12.png",
+    "type": "file",
+    "sha256": "8fe1ca9306c509d31ac9f4ce421297b8b474cdee1de4700599512352b1a10052",
+    "bytes": 393882
+  },
+  {
+    "path": "manuscript-review-2026-10-19/original-render/page-13.png",
+    "type": "file",
+    "sha256": "b10655a8d77d5c9aebc0edc52dca62621a01c55705a0f1d314b449c5875c5a3f",
+    "bytes": 340998
+  },
+  {
+    "path": "manuscript-review-2026-10-19/original-render/page-14.png",
+    "type": "file",
+    "sha256": "ffffd9edab8de3714e7a0a6c6c42ff3136aa6cd7f27fbb3adafd8277e1bf504c",
+    "bytes": 390010
+  },
+  {
+    "path": "manuscript-review-2026-10-19/original-render/page-15.png",
+    "type": "file",
+    "sha256": "1be698dac41b5d8330e39bcffa0f79f40d41f8d691429159d5d2963831bff53f",
+    "bytes": 290814
+  },
+  {
+    "path": "manuscript-review-2026-10-19/original-render/page-16.png",
+    "type": "file",
+    "sha256": "984d3e45fbebb89d656ce81db1daf7b455008eaef15ac95887812bea170931a9",
+    "bytes": 339781
+  },
+  {
+    "path": "manuscript-review-2026-10-19/original-render/page-17.png",
+    "type": "file",
+    "sha256": "5cae3857201b07a5ca3fac52704b10d9a806624441f998714137d8ac9ed829f0",
+    "bytes": 373393
+  },
+  {
+    "path": "manuscript-review-2026-10-19/original-render/page-18.png",
+    "type": "file",
+    "sha256": "fd591312138255fd28df84d0b8ac8e5e201c414bbbe534afcaa99415fa1a2507",
+    "bytes": 551551
+  },
+  {
+    "path": "manuscript-review-2026-10-19/original-render/page-19.png",
+    "type": "file",
+    "sha256": "67602a4598acc4009419bc946281537f0f89ec6df9ce425ac19f5fbf6290fdea",
+    "bytes": 526008
+  },
+  {
+    "path": "manuscript-review-2026-10-19/original-render/page-2.png",
+    "type": "file",
+    "sha256": "6be55e129c4d8403cb95327df3ff5ef7ebec649d57fec62728d138fd611fd474",
+    "bytes": 271710
+  },
+  {
+    "path": "manuscript-review-2026-10-19/original-render/page-20.png",
+    "type": "file",
+    "sha256": "48bc77091a792972715d3886fbca06cd04b925e36c983fa80c2098e5f1051a46",
+    "bytes": 472271
+  },
+  {
+    "path": "manuscript-review-2026-10-19/original-render/page-21.png",
+    "type": "file",
+    "sha256": "dde6c06bd581c385b5716ff64f2c080a1cd1a1dd57d3cd65395562b4b70be682",
+    "bytes": 526204
+  },
+  {
+    "path": "manuscript-review-2026-10-19/original-render/page-22.png",
+    "type": "file",
+    "sha256": "240d9850645b2ec4a5285f6f781d2c3ea14a12dd393720e2f8165713630b90bf",
+    "bytes": 524748
+  },
+  {
+    "path": "manuscript-review-2026-10-19/original-render/page-23.png",
+    "type": "file",
+    "sha256": "148e53fae508da0e88ab93de3f396cbbca03cfd0aa003024859a879bf2dfc352",
+    "bytes": 473413
+  },
+  {
+    "path": "manuscript-review-2026-10-19/original-render/page-24.png",
+    "type": "file",
+    "sha256": "b02fc92c0edf29afaa46e7382fadc3e030c7cf214e20518b4245a242a3d6824a",
+    "bytes": 405559
+  },
+  {
+    "path": "manuscript-review-2026-10-19/original-render/page-25.png",
+    "type": "file",
+    "sha256": "13284a2d9b7289b0a25bca8feaa232405a1aa34ea2ce2d24dca01ac6fb3ccf06",
+    "bytes": 575021
+  },
+  {
+    "path": "manuscript-review-2026-10-19/original-render/page-26.png",
+    "type": "file",
+    "sha256": "bca81dba1b5be0f4fccdccf4df8f2ae8f17ac47e73af889e1ff36d52604a037e",
+    "bytes": 566373
+  },
+  {
+    "path": "manuscript-review-2026-10-19/original-render/page-3.png",
+    "type": "file",
+    "sha256": "9de498109e0740d32df483fa4d60d20322411ebf2dbb2db557ba8a1d44e21c02",
+    "bytes": 384853
+  },
+  {
+    "path": "manuscript-review-2026-10-19/original-render/page-4.png",
+    "type": "file",
+    "sha256": "a05969f7e006ea1c5455b516e298918a07102eadcc62a2b6e7ed9084fe50337d",
+    "bytes": 418787
+  },
+  {
+    "path": "manuscript-review-2026-10-19/original-render/page-5.png",
+    "type": "file",
+    "sha256": "c72058f66ff29e84ae2d9db6e53258ba03cf9f5ee0f2819819ca2abb205695f5",
+    "bytes": 392104
+  },
+  {
+    "path": "manuscript-review-2026-10-19/original-render/page-6.png",
+    "type": "file",
+    "sha256": "5310da5c556771ebccdb64ea529808a397f39cc467b07a1518c8dd9eb2584c89",
+    "bytes": 367498
+  },
+  {
+    "path": "manuscript-review-2026-10-19/original-render/page-7.png",
+    "type": "file",
+    "sha256": "7c406cd3be6e8352e4382565227102819896b0061973a7a644d5526ae810d6fc",
+    "bytes": 368931
+  },
+  {
+    "path": "manuscript-review-2026-10-19/original-render/page-8.png",
+    "type": "file",
+    "sha256": "333fdbdbdfd7c2e8b75ea1916789b5f5804640ad0a67f0cfaf049d3a3c131c73",
+    "bytes": 345226
+  },
+  {
+    "path": "manuscript-review-2026-10-19/original-render/page-9.png",
+    "type": "file",
+    "sha256": "58ea7ad84f5b50ed29c28327b15763b28ce1814c397704183eb16333c78303eb",
+    "bytes": 372469
+  },
+  {
+    "path": "manuscript-review-2026-10-19/source.txt",
+    "type": "file",
+    "sha256": "78b60d33fbdc7f26121589d99558ebc2b24a88b053c1b74ce992f7db8e43740d",
+    "bytes": 65343
+  },
+  {
+    "path": "manuscript-review-2026-10-19/tracked-render/Canadian_health_informatics_programmes_v1.1_tracked_review.pdf",
+    "type": "file",
+    "sha256": "1aaa1e7455780ffca780cdb9795e9a17ec8d8bd760fda50e9ae0463cd7aa30b3",
+    "bytes": 1522628
+  },
+  {
+    "path": "manuscript-review-2026-10-19/tracked-render/page-1.png",
+    "type": "file",
+    "sha256": "6cbfba3ebd5164d96f85660f7f9de97d20cf574be948e7063f41f2d54008b913",
+    "bytes": 166815
+  },
+  {
+    "path": "manuscript-review-2026-10-19/tracked-render/page-10.png",
+    "type": "file",
+    "sha256": "efde4a071d0649b06f10a65af5524935a81c7bd944b680bcbddfcab61d5ec5da",
+    "bytes": 520663
+  },
+  {
+    "path": "manuscript-review-2026-10-19/tracked-render/page-11.png",
+    "type": "file",
+    "sha256": "57edf693a7dc273805cd90294f8c0ec673d716b70b3d37ce9d34414d7140fe09",
+    "bytes": 497305
+  },
+  {
+    "path": "manuscript-review-2026-10-19/tracked-render/page-12.png",
+    "type": "file",
+    "sha256": "4ae00c913c6f3dd239b83bf5e26130ed54f8fcd3f967f91e2a200153960fe98d",
+    "bytes": 513109
+  },
+  {
+    "path": "manuscript-review-2026-10-19/tracked-render/page-13.png",
+    "type": "file",
+    "sha256": "3e3fd5c4e76ccbc714812121b6df2785780307b87703bb72467a7ffdadbcc086",
+    "bytes": 461917
+  },
+  {
+    "path": "manuscript-review-2026-10-19/tracked-render/page-14.png",
+    "type": "file",
+    "sha256": "2ba1405d88a1b92c09070a3b1efeb2932b2eaff7a2bc537612f0a101faf3168e",
+    "bytes": 446052
+  },
+  {
+    "path": "manuscript-review-2026-10-19/tracked-render/page-15.png",
+    "type": "file",
+    "sha256": "dd6b68d11a4d07117e9b402f572e944d942d17b8360db0305691b7d8c9bf4149",
+    "bytes": 471413
+  },
+  {
+    "path": "manuscript-review-2026-10-19/tracked-render/page-16.png",
+    "type": "file",
+    "sha256": "d57545f1e9fbd4b25e442c468f025e52cf76dd4053f3a80ab162cc409e72d9c7",
+    "bytes": 445537
+  },
+  {
+    "path": "manuscript-review-2026-10-19/tracked-render/page-17.png",
+    "type": "file",
+    "sha256": "5a271ae9863089827716fdb7d8a1b0bd58dbdb2e087f00d062c182688597ccea",
+    "bytes": 463927
+  },
+  {
+    "path": "manuscript-review-2026-10-19/tracked-render/page-18.png",
+    "type": "file",
+    "sha256": "74063e963edd26df92ccdc26ddbe37891ec1b51bbce842da96d791c95c37643f",
+    "bytes": 438816
+  },
+  {
+    "path": "manuscript-review-2026-10-19/tracked-render/page-19.png",
+    "type": "file",
+    "sha256": "911aec8105bf26fdbbc621c8eb414a096547ceebc592bdf4b5131cd2ad2e25fc",
+    "bytes": 450267
+  },
+  {
+    "path": "manuscript-review-2026-10-19/tracked-render/page-2.png",
+    "type": "file",
+    "sha256": "a2b33d6da535088f8153c5959a2276a8732c150bf441822a95ce7882cda328f4",
+    "bytes": 474427
+  },
+  {
+    "path": "manuscript-review-2026-10-19/tracked-render/page-20.png",
+    "type": "file",
+    "sha256": "90f104803aa1fa3ed7d1ed7f03aa0976d24b68107d14e149605d90dff39307b2",
+    "bytes": 475516
+  },
+  {
+    "path": "manuscript-review-2026-10-19/tracked-render/page-21.png",
+    "type": "file",
+    "sha256": "d9e38f3decb3a52fafeb5601cdfa4af1412afae887a93790707dd8a2ad752aec",
+    "bytes": 318393
+  },
+  {
+    "path": "manuscript-review-2026-10-19/tracked-render/page-22.png",
+    "type": "file",
+    "sha256": "2c1cd18537391f1c58777a3596e58c92516d62d99f83396ee3248f458fcd53f3",
+    "bytes": 367753
+  },
+  {
+    "path": "manuscript-review-2026-10-19/tracked-render/page-23.png",
+    "type": "file",
+    "sha256": "2dff748142c50a92ba9437088eaf88525daf4f771b20f6905a0af43d671f1eef",
+    "bytes": 461868
+  },
+  {
+    "path": "manuscript-review-2026-10-19/tracked-render/page-24.png",
+    "type": "file",
+    "sha256": "8b0a1b65b29da76fd38b3f2c36fdaed8dc22a860c78e59cea6266595085f1135",
+    "bytes": 518830
+  },
+  {
+    "path": "manuscript-review-2026-10-19/tracked-render/page-25.png",
+    "type": "file",
+    "sha256": "5620021bd4218f12dd376ee47289f5dcff4976a60669af695a62a44462c26953",
+    "bytes": 463033
+  },
+  {
+    "path": "manuscript-review-2026-10-19/tracked-render/page-26.png",
+    "type": "file",
+    "sha256": "81ebd349629ff316ec0efa24d854f8e1f2a152ec46c4c198ba7f4fd3edec45d0",
+    "bytes": 434073
+  },
+  {
+    "path": "manuscript-review-2026-10-19/tracked-render/page-27.png",
+    "type": "file",
+    "sha256": "f6c00161fc43fddf0145b1044808a6c882c10759abd999cc6dd7437e3e583a5d",
+    "bytes": 561654
+  },
+  {
+    "path": "manuscript-review-2026-10-19/tracked-render/page-28.png",
+    "type": "file",
+    "sha256": "054c2882f6883f45004865036f15982917d35a173c20e284b8b87bec8dfae041",
+    "bytes": 511440
+  },
+  {
+    "path": "manuscript-review-2026-10-19/tracked-render/page-29.png",
+    "type": "file",
+    "sha256": "3bb764131a8b300104ce4b57864f793b134b840edecc65e2403ff30de9577558",
+    "bytes": 436698
+  },
+  {
+    "path": "manuscript-review-2026-10-19/tracked-render/page-3.png",
+    "type": "file",
+    "sha256": "5717bb45336171477dbe0f513059d2c8c2581872833e49cc0f8b214aaed2731e",
+    "bytes": 49231
+  },
+  {
+    "path": "manuscript-review-2026-10-19/tracked-render/page-30.png",
+    "type": "file",
+    "sha256": "274e3ec0de2dab2cb50b29a645ea64203c958f0648a367add47d5da35d527039",
+    "bytes": 292644
+  },
+  {
+    "path": "manuscript-review-2026-10-19/tracked-render/page-31.png",
+    "type": "file",
+    "sha256": "ccfde790c0c24486dbf33690a9d6f37c82d5c2121190318d9b06d520ff8df956",
+    "bytes": 368011
+  },
+  {
+    "path": "manuscript-review-2026-10-19/tracked-render/page-32.png",
+    "type": "file",
+    "sha256": "0736471baa32a786d3b99a7629291d7f82da3650b8469ec4c0fa52b82ced3a64",
+    "bytes": 207954
+  },
+  {
+    "path": "manuscript-review-2026-10-19/tracked-render/page-33.png",
+    "type": "file",
+    "sha256": "0a38a418ca53d465d140522741b93eab9346bbfff97429786ca1da50a4fe3175",
+    "bytes": 266495
+  },
+  {
+    "path": "manuscript-review-2026-10-19/tracked-render/page-34.png",
+    "type": "file",
+    "sha256": "e01857ee9b7e8652a65bf84045341fd8173e624eaff037ee11e63fac9dea5484",
+    "bytes": 277630
+  },
+  {
+    "path": "manuscript-review-2026-10-19/tracked-render/page-35.png",
+    "type": "file",
+    "sha256": "e0edf9dd16360280c48b1a4fbe9fa6df71a98de1bc5d3d6b95d1d267f364ae6f",
+    "bytes": 533996
+  },
+  {
+    "path": "manuscript-review-2026-10-19/tracked-render/page-4.png",
+    "type": "file",
+    "sha256": "4bf717adfd47a143dfe10040495f1ff27a65d68a5383cc97da06d44aaadf15df",
+    "bytes": 413953
+  },
+  {
+    "path": "manuscript-review-2026-10-19/tracked-render/page-5.png",
+    "type": "file",
+    "sha256": "dd3d717d49fbd26f8343853ee11a83d56b7ea19bbbd28836564d925e1ef7dacc",
+    "bytes": 440816
+  },
+  {
+    "path": "manuscript-review-2026-10-19/tracked-render/page-6.png",
+    "type": "file",
+    "sha256": "07a43cd6a2137000ed85768bd0be0cf7a68495e09744f3b24510ce9716410447",
+    "bytes": 452302
+  },
+  {
+    "path": "manuscript-review-2026-10-19/tracked-render/page-7.png",
+    "type": "file",
+    "sha256": "084a4efc359bcd0d2fea581ed665d56cde5dbe38a4b8e83754778c7958fcb9c3",
+    "bytes": 428299
+  },
+  {
+    "path": "manuscript-review-2026-10-19/tracked-render/page-8.png",
+    "type": "file",
+    "sha256": "40689cb89e16575ddf574ba9bdf1d71b502d77bdd374200ebd4f926e060617fa",
+    "bytes": 522323
+  },
+  {
+    "path": "manuscript-review-2026-10-19/tracked-render/page-9.png",
+    "type": "file",
+    "sha256": "64e5632c95f048ea2b8f5411cd6f7348639d6e1e094950774f207ea2e1991716",
+    "bytes": 456735
+  },
+  {
+    "path": "manuscript-review-2026-10-19/verified-last.jpg",
+    "type": "file",
+    "sha256": "6edf4c6b244e64b73a400e1531d03d23de9a083eb4274c31ab16eef34c5b0c0a",
+    "bytes": 91161
+  },
+  {
+    "path": "manuscript-review-2026-10-19/verified-render/Canadian_health_informatics_programmes_v1.1_edited.pdf",
+    "type": "file",
+    "sha256": "860f3a638eb6a972b0048cf92617037710fed6df070e54af867032eb090ce43e",
+    "bytes": 1282558
+  },
+  {
+    "path": "manuscript-review-2026-10-19/verified-render/page-1.png",
+    "type": "file",
+    "sha256": "eeb472d77e6487ec111cf197f4ec4cb160d355f4f105c0a983d6b0436b51b050",
+    "bytes": 147475
+  },
+  {
+    "path": "manuscript-review-2026-10-19/verified-render/page-10.png",
+    "type": "file",
+    "sha256": "bbed596bcc22718044db24f7eba4076c1350cf59e272c8bd4124b38649d43da7",
+    "bytes": 329888
+  },
+  {
+    "path": "manuscript-review-2026-10-19/verified-render/page-11.png",
+    "type": "file",
+    "sha256": "041c6c69fc64e7f04295cad8338f602149b4e5cc1ee2505b0f0684b3e071c29e",
+    "bytes": 401435
+  },
+  {
+    "path": "manuscript-review-2026-10-19/verified-render/page-12.png",
+    "type": "file",
+    "sha256": "00d3bb1866d1c509221e58f0d28ec66178763c5def297c3c2bd590a788420fae",
+    "bytes": 355233
+  },
+  {
+    "path": "manuscript-review-2026-10-19/verified-render/page-13.png",
+    "type": "file",
+    "sha256": "1a39c7c3cec28b696b85523912a70b2bfe4ef450f6a693df7a63556fed407b80",
+    "bytes": 368602
+  },
+  {
+    "path": "manuscript-review-2026-10-19/verified-render/page-14.png",
+    "type": "file",
+    "sha256": "20d4466e8572a79f19a44d8846d146376bb77156b63cfc7fa7245b1dfd6b76cd",
+    "bytes": 360917
+  },
+  {
+    "path": "manuscript-review-2026-10-19/verified-render/page-15.png",
+    "type": "file",
+    "sha256": "96261f190f695746ab2adfef1da7806dc63bb2b181b5ae45e7f9bc2e57471670",
+    "bytes": 289733
+  },
+  {
+    "path": "manuscript-review-2026-10-19/verified-render/page-16.png",
+    "type": "file",
+    "sha256": "ac97328edb00cb880f3243b6ade050d7520d4e679866c97324b5663e365ffc56",
+    "bytes": 339724
+  },
+  {
+    "path": "manuscript-review-2026-10-19/verified-render/page-17.png",
+    "type": "file",
+    "sha256": "3b49476418d053da11ce1d0f42e376bb05191813cbe8c08a4fdf24026df2f82f",
+    "bytes": 369614
+  },
+  {
+    "path": "manuscript-review-2026-10-19/verified-render/page-18.png",
+    "type": "file",
+    "sha256": "6518cddde56944d1c8934582fc57a25bfa6650b8e1814588115e910295d38811",
+    "bytes": 529438
+  },
+  {
+    "path": "manuscript-review-2026-10-19/verified-render/page-19.png",
+    "type": "file",
+    "sha256": "8433f2f6e23745f845c59ac3bc6d02eb1f27e349fecdc8426fd35b666076882d",
+    "bytes": 503267
+  },
+  {
+    "path": "manuscript-review-2026-10-19/verified-render/page-2.png",
+    "type": "file",
+    "sha256": "0a12705b16d3d6cba1b0a53aeb19db38ec1a56050da99dad8bba7d4a4c2da75b",
+    "bytes": 282964
+  },
+  {
+    "path": "manuscript-review-2026-10-19/verified-render/page-20.png",
+    "type": "file",
+    "sha256": "13b1e1e51c024a6b176c03ce6770d88b2b707519b73f7c00b8efff08206dc3fe",
+    "bytes": 465303
+  },
+  {
+    "path": "manuscript-review-2026-10-19/verified-render/page-21.png",
+    "type": "file",
+    "sha256": "75ae72462912c6ccecdb5aba9828193f4dd151ca20622d2ae66b0855d40f7654",
+    "bytes": 465528
+  },
+  {
+    "path": "manuscript-review-2026-10-19/verified-render/page-22.png",
+    "type": "file",
+    "sha256": "8567ffea66ba9f8ffc159b299cd4f8a0b99ee4b84b23047a21885831da337f74",
+    "bytes": 506970
+  },
+  {
+    "path": "manuscript-review-2026-10-19/verified-render/page-23.png",
+    "type": "file",
+    "sha256": "f7d3e81a730b29b194edddbd4ff8d1072e5764b8060b9cebd2ea50d99c9cd841",
+    "bytes": 471908
+  },
+  {
+    "path": "manuscript-review-2026-10-19/verified-render/page-24.png",
+    "type": "file",
+    "sha256": "aa54d2147ae8b5cbaa1628456f866c2f1cc89eb4be414056ba011c6035da56ca",
+    "bytes": 369821
+  },
+  {
+    "path": "manuscript-review-2026-10-19/verified-render/page-25.png",
+    "type": "file",
+    "sha256": "2788b74b7ccd0144bec9c76918f3c64821550c2899b6be2063e0450969b812f8",
+    "bytes": 417426
+  },
+  {
+    "path": "manuscript-review-2026-10-19/verified-render/page-26.png",
+    "type": "file",
+    "sha256": "76f35cdf1245d79a81ff01cbe6aa02e801262f0a82f5e01d704e8c1c0fec98c4",
+    "bytes": 298100
+  },
+  {
+    "path": "manuscript-review-2026-10-19/verified-render/page-27.png",
+    "type": "file",
+    "sha256": "14ca8a93766f717b5c515af93defe93771aabbab9d8bec1f46c100703c9e7a8c",
+    "bytes": 277527
+  },
+  {
+    "path": "manuscript-review-2026-10-19/verified-render/page-28.png",
+    "type": "file",
+    "sha256": "a9a1576fc0f9db36d519d8d91cd5c6253a9052439ff247b9c6fdb887c7d3acfe",
+    "bytes": 534174
+  },
+  {
+    "path": "manuscript-review-2026-10-19/verified-render/page-3.png",
+    "type": "file",
+    "sha256": "89fe8f1bed0f8fed2bb889603d6feca6b74e775d8209a26686a03945cf90803a",
+    "bytes": 385257
+  },
+  {
+    "path": "manuscript-review-2026-10-19/verified-render/page-4.png",
+    "type": "file",
+    "sha256": "108287c0549b77e138c7cf84a4832da4b0670cced1af6510632c492632fe3daa",
+    "bytes": 421598
+  },
+  {
+    "path": "manuscript-review-2026-10-19/verified-render/page-5.png",
+    "type": "file",
+    "sha256": "5474ccb915c02d1c32bd9d8fa84978280a23c04fa0a235566127a2b4cb216a21",
+    "bytes": 370819
+  },
+  {
+    "path": "manuscript-review-2026-10-19/verified-render/page-6.png",
+    "type": "file",
+    "sha256": "21c8710b4c15f4bd9df8e2fa01fa335de2e1520f90493755d0c7eb3662de1cd2",
+    "bytes": 393166
+  },
+  {
+    "path": "manuscript-review-2026-10-19/verified-render/page-7.png",
+    "type": "file",
+    "sha256": "e4923f0414d72aff3f1e9133b571087741777e271bd40bc6b766bc7694aef914",
+    "bytes": 351600
+  },
+  {
+    "path": "manuscript-review-2026-10-19/verified-render/page-8.png",
+    "type": "file",
+    "sha256": "942b6883fcae9201dbfd81d8e5a342c5582c8c9599acf520e1ed5de50deeb147",
+    "bytes": 379723
+  },
+  {
+    "path": "manuscript-review-2026-10-19/verified-render/page-9.png",
+    "type": "file",
+    "sha256": "d5ba681add06c3ea6b531b5d5ad11c595a175076b8c7b5e8c50db0838f3a1e4e",
+    "bytes": 365848
+  },
+  {
+    "path": "manuscript-review-2026-10-19/~$nadian_health_informatics_programmes_v1.1_edited.docx",
+    "type": "file",
+    "sha256": "6cd13260452de7dc203c7f6e88b19095c3c44452c763e2e2cbbe52d7e1adb0f3",
+    "bytes": 162
+  },
+  {
+    "path": "african-ai-policy/Paper1_tables_corpus_v2_2026-10-14.docx",
+    "type": "file",
+    "sha256": "baae7e4f4d8092b4b2ae9aadbcca7f2b7a945a46d1ad070603ecb5fe6c2d509f",
+    "bytes": 43804
+  }
+]

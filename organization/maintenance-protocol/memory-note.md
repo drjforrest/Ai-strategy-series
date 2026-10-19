@@ -1,0 +1,12 @@
+# AI strategy series organization and maintenance
+
+User request, 18 October 2026: Codex is responsible for maintaining the project folder organization and should save the protocol/context as a skill and memory.
+
+Project: `/Users/j.forrest/dev/projects/data-science/ai-strategy-series`.
+Skill: `/Users/j.forrest/.codex/skills/ai-strategy-series-maintenance/SKILL.md`. Apply during substantive project work and filing/organization; keep new materials in the established structure without repeatedly asking permission for routine filing. This does not request an automation or authorize scientific redesign, deletion, external publication or messaging.
+
+Start with root `README.md`, `strategy/README.md`, and the affected paper index. Top-level `papers/` contains links to actual `african-ai-policy/papers/` folders: `paper-1-rhetoric-readiness`, `paper-2-policy-connectivity`, `paper-2b-canada-policy`, `paper-3-workforce-capacity`, `paper-4-policy-capital`, and unnumbered `canada-competency-demand`. `strategy/` links to `african-ai-policy/strategy/`. `shared-resources/` links to shared corpora, Canadian reports and early scoping. Original `african-ai-policy/drafts/` paths remain compatibility symlinks.
+
+The root was not a Git repo; `african-ai-policy` and `digital-health-canada` were separate repos with pre-existing uncommitted changes. Preserve code, environments, datasets, generated outputs, backups and credentials in place. One canonical document copy; link shared assets. Calculate relative symlink targets from the resolved physical parent, not the alias path. Record moves/hashes, verify unchanged contents and link targets, and maintain indexes. Initial move manifest: `organization/moves-2026-10-18.json`; 32 moved items, 31 unchanged files, 53 valid links. Counts are historical, not invariants.
+
+Critical correction: the 15 October `Paper3_vs_hi-africa-partnerships_relationship_2026-10-15.md` says `hi-africa-partnerships` is dormant July partner-scoping work, not an active competing JAMIA paper. It supersedes the overlap audit. Preserve reusable registers and their verification caveats. Paper 3's Canadian framework-portability arm, Paper 2b's Canadian policy study and the Canadian competency-demand proposal are distinct. Paper 4 is exploratory policy/capital work. Older roadmap/comparator assumptions and corpus counts are superseded in part by later notes; the 16 October Paper 1 corpus-change note postdates the 14 October co-author draft. Do not infer submission from FINAL or claim research validation from folder checks.

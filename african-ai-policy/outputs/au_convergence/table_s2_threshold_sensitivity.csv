@@ -1,0 +1,4 @@
+threshold,rank1,rank1_r,top3
+5%,Ethiopia,0.6968692776075713,Ethiopia; South Africa; Lesotho
+10%,Ethiopia,0.6212922467721891,Ethiopia; Rwanda; Côte d'Ivoire
+20%,Rwanda,0.5473642606990035,Rwanda; Ethiopia; Ghana

@@ -1,0 +1,32 @@
+country,doc,words,other_sector_refs,other_sector_density,health_anchor_density,ai_anchor_density
+Benin,AI strategy,15342,2,0.13,1.564,19.815
+Côte d'Ivoire,AI strategy,15189,0,0.0,0.856,32.721
+Egypt,AI strategy,24893,0,0.0,0.08,37.802
+Ethiopia,AI strategy,8442,0,0.0,0.237,37.55
+Ghana,AI strategy,19536,0,0.0,0.358,46.785
+Kenya,AI strategy,24830,0,0.0,0.201,44.744
+Lesotho,AI strategy,15205,0,0.0,0.329,45.446
+Mauritania,AI strategy,10839,0,0.0,1.199,39.672
+Mauritius,AI strategy,16191,0,0.0,0.432,38.787
+Nigeria,AI strategy,22619,0,0.0,0.088,47.305
+Rwanda,AI strategy,4646,0,0.0,0.646,46.276
+Senegal,AI strategy,44363,0,0.0,0.857,32.076
+South Africa,AI strategy,23522,0,0.0,0.128,38.262
+Tanzania,AI strategy,19598,0,0.0,0.408,42.555
+Zambia,AI strategy,12640,0,0.0,0.079,41.772
+Zimbabwe,AI strategy,20748,0,0.0,0.53,35.955
+Botswana,Digital-health strategy,10864,0,0.0,39.856,0.644
+Burundi,Digital-health strategy,30602,0,0.0,1.83,0.0
+DRC,Digital-health strategy,18613,3,0.161,7.414,0.161
+Ethiopia,Digital-health strategy,16612,0,0.0,29.437,1.324
+Ghana,Digital-health strategy,13761,0,0.0,21.074,0.218
+Kenya,Digital-health strategy,14210,0,0.0,17.382,0.774
+Mauritius,Digital-health strategy,3613,0,0.0,26.571,1.107
+Namibia,Digital-health strategy,29800,0,0.0,36.678,0.336
+Niger,Digital-health strategy,34675,0,0.0,2.769,0.058
+Nigeria,Digital-health strategy,17029,0,0.0,19.555,0.705
+Rwanda,Digital-health strategy,14669,0,0.0,28.564,0.136
+Senegal,Digital-health strategy,18225,1,0.055,3.896,0.165
+Sierra Leone,Digital-health strategy,16842,0,0.0,30.163,0.178
+South Africa,Digital-health strategy,11703,0,0.0,34.948,0.598
+Zambia,Digital-health strategy,10047,0,0.0,22.295,0.1

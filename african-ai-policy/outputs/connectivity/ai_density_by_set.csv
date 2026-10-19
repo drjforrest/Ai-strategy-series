@@ -1,0 +1,33 @@
+set,country,words,ai_terms,ai_density_per_1k
+AI strategy,Benin,15342,296,19.29
+AI strategy,Côte d'Ivoire,15189,465,30.61
+AI strategy,Egypt,24893,928,37.28
+AI strategy,Ethiopia,8442,317,37.55
+AI strategy,Ghana,19536,891,45.61
+AI strategy,Kenya,24830,1101,44.34
+AI strategy,Lesotho,15205,677,44.52
+AI strategy,Mauritania,10839,418,38.56
+AI strategy,Mauritius,16191,627,38.73
+AI strategy,Nigeria,22619,1060,46.86
+AI strategy,Rwanda,4646,214,46.06
+AI strategy,Senegal,44363,1362,30.7
+AI strategy,South Africa,23522,839,35.67
+AI strategy,Tanzania,19598,805,41.08
+AI strategy,Zambia,12640,519,41.06
+AI strategy,Zimbabwe,20748,731,35.23
+Digital health,Botswana,10864,5,0.46
+Digital health,Burundi,30602,0,0.0
+Digital health,DRC,18613,3,0.16
+Digital health,Ethiopia,16612,17,1.02
+Digital health,Ghana,13761,2,0.15
+Digital health,Kenya,14210,9,0.63
+Digital health,Mauritius,3613,4,1.11
+Digital health,Namibia,29800,8,0.27
+Digital health,Niger,34675,2,0.06
+Digital health,Nigeria,17029,12,0.7
+Digital health,Rwanda,14669,2,0.14
+Digital health,Senegal,18225,2,0.11
+Digital health,Sierra Leone,16842,2,0.12
+Digital health,South Africa,11703,6,0.51
+Digital health,Zambia,10047,1,0.1
+Digital transformation,Uganda,34080,49,1.44

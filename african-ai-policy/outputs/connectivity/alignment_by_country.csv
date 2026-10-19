@@ -1,0 +1,34 @@
+set,country,similarity_score
+AI strategy,African Union,0.4573
+AI strategy,Benin,0.4882
+AI strategy,Côte d'Ivoire,0.5455
+AI strategy,Egypt,0.4468
+AI strategy,Ethiopia,0.4918
+AI strategy,Ghana,0.4841
+AI strategy,Kenya,0.4664
+AI strategy,Lesotho,0.4896
+AI strategy,Mauritania,0.4713
+AI strategy,Mauritius,0.5099
+AI strategy,Nigeria,0.451
+AI strategy,Rwanda,0.4319
+AI strategy,Senegal,0.5028
+AI strategy,South Africa,0.4772
+AI strategy,Tanzania,0.4938
+AI strategy,Zambia,0.5137
+AI strategy,Zimbabwe,0.464
+Digital health,Botswana,0.5704
+Digital health,Burundi,0.5341
+Digital health,DRC,0.6242
+Digital health,Ethiopia,0.6469
+Digital health,Ghana,0.6199
+Digital health,Kenya,0.6027
+Digital health,Mauritius,0.6012
+Digital health,Namibia,0.575
+Digital health,Niger,0.5564
+Digital health,Nigeria,0.5716
+Digital health,Rwanda,0.5653
+Digital health,Senegal,0.6322
+Digital health,Sierra Leone,0.6148
+Digital health,South Africa,0.6719
+Digital health,Zambia,0.6469
+Digital transformation,Uganda,0.5229

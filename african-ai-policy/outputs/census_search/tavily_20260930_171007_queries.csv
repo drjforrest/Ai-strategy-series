@@ -1,0 +1,9 @@
+cell_id,scope,lang,query,include_domains,depth,run_utc,from_cache,n_results,credits,error
+KEN-AI,open,en,Kenya national artificial intelligence strategy pdf,,advanced,2026-10-01T00:10:07+00:00,False,10,2,
+KEN-AI,official,en,Kenya national artificial intelligence strategy pdf,ict.go.ke,advanced,2026-10-01T00:10:15+00:00,False,10,2,
+RWA-AI,open,en,Rwanda national artificial intelligence strategy pdf,,advanced,2026-10-01T00:10:27+00:00,False,10,2,
+RWA-AI,official,en,Rwanda national artificial intelligence strategy pdf,minict.gov.rw,advanced,2026-10-01T00:10:37+00:00,False,10,2,
+RWA-AI,open,fr,Rwanda stratégie nationale de l'intelligence artificielle pdf,,advanced,2026-10-01T00:10:44+00:00,False,10,2,
+RWA-AI,official,fr,Rwanda stratégie nationale de l'intelligence artificielle pdf,minict.gov.rw,advanced,2026-10-01T00:10:54+00:00,False,2,2,
+MAR-AI,open,ar,Morocco الاستراتيجية الوطنية للذكاء الاصطناعي pdf,,advanced,2026-10-01T00:11:40+00:00,False,10,2,
+MAR-AI,open,fr,Morocco stratégie nationale de l'intelligence artificielle pdf,,advanced,2026-10-01T00:11:50+00:00,False,10,2,

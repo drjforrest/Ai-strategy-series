@@ -1,0 +1,224 @@
+[
+  {
+    "original": "african-ai-policy/drafts/CIS_definition_section_edited_2026-10-07.md",
+    "organized": "african-ai-policy/strategy/concepts/CIS_definition_section_edited_2026-10-07.md",
+    "sha256": {
+      ".": "e7628464d46a1765f3c3948f63df34095d21ad1e87ace11a132498adcb04e573"
+    }
+  },
+  {
+    "original": "african-ai-policy/drafts/Canada_benchmark_findings_2026-10-06.md",
+    "organized": "african-ai-policy/papers/paper-2b-canada-policy/notes/Canada_benchmark_findings_2026-10-06.md",
+    "sha256": {
+      ".": "59f990fd590a4491b325354b705364d428af64abc1e61f7afe43c91dbb231249"
+    }
+  },
+  {
+    "original": "african-ai-policy/drafts/Canada_competency_demand_design_memo_2026-10-16.md",
+    "organized": "african-ai-policy/papers/canada-competency-demand/design/Canada_competency_demand_design_memo_2026-10-16.md",
+    "sha256": {
+      ".": "35b94120016ee39d0e8158f0ea08576351a30c2eddb29c371728a34ef5d165ea"
+    }
+  },
+  {
+    "original": "african-ai-policy/drafts/Health_salience_in_AI_strategies_2026-10-06.md",
+    "organized": "african-ai-policy/papers/paper-4-policy-capital/scoping/Health_salience_in_AI_strategies_2026-10-06.md",
+    "sha256": {
+      ".": "8081cebd87ee5b9519a545bc529b4875e775aa2869f8b3913518d46f7cc353cd"
+    }
+  },
+  {
+    "original": "african-ai-policy/drafts/Overlap_audit_Paper3_vs_JAMIA_2026-10-15.md",
+    "organized": "african-ai-policy/papers/paper-3-workforce-capacity/archive/Overlap_audit_Paper3_vs_JAMIA_2026-10-15.md",
+    "sha256": {
+      ".": "6275fb96773c0ef87cb89d5056f83d2a9c210d46cde047140a9aaf5f289d5488"
+    }
+  },
+  {
+    "original": "african-ai-policy/drafts/Paper1_BMJGH_manuscript_v2.0_12plusAU_2026-10-05.md",
+    "organized": "african-ai-policy/papers/paper-1-rhetoric-readiness/notes/Paper1_BMJGH_manuscript_v2.0_12plusAU_2026-10-05.md",
+    "sha256": {
+      ".": "e66a62798319c455d436f73cc7914d69186f925bee12bc575e1221371bad1198"
+    }
+  },
+  {
+    "original": "african-ai-policy/drafts/Paper1_methods_precise_2026-10-07.md",
+    "organized": "african-ai-policy/papers/paper-1-rhetoric-readiness/notes/Paper1_methods_precise_2026-10-07.md",
+    "sha256": {
+      ".": "090100ecb0540eb6d1cc9387258b018a86798054d815430331a1ea660cb5f725"
+    }
+  },
+  {
+    "original": "african-ai-policy/drafts/Paper1_reconceptualised_abstract.md",
+    "organized": "african-ai-policy/papers/paper-1-rhetoric-readiness/notes/Paper1_reconceptualised_abstract.md",
+    "sha256": {
+      ".": "8fa82d7292dfbc11ac00c7c1b81a803bfab6b121de2ae73caf32a09b08a7eb04"
+    }
+  },
+  {
+    "original": "african-ai-policy/drafts/Paper1_tables_corpus_v2_2026-10-14.docx",
+    "organized": "african-ai-policy/papers/paper-1-rhetoric-readiness/tables/Paper1_tables_corpus_v2_2026-10-14.docx",
+    "sha256": {
+      ".": "69780715ff17e049a75e4ae8c3dc379a6b6c6fac6991e7f66b847c40b193c7db"
+    }
+  },
+  {
+    "original": "african-ai-policy/drafts/Paper1_v2.0_self_peer_review_2026-10-05.md",
+    "organized": "african-ai-policy/papers/paper-1-rhetoric-readiness/notes/Paper1_v2.0_self_peer_review_2026-10-05.md",
+    "sha256": {
+      ".": "47f9b1f0694d160b01c08113c4aa0c9b92d1e75e5120e18b9399908df7adfccf"
+    }
+  },
+  {
+    "original": "african-ai-policy/drafts/Paper2_HIMSS_extended_abstract.md",
+    "organized": "african-ai-policy/papers/paper-2-policy-connectivity/conference/Paper2_HIMSS_extended_abstract.md",
+    "sha256": {
+      ".": "420d8f7e2b413d2b7ede2c103c242f1154b5880dede8c9f8d1b7f52fabc16b40"
+    }
+  },
+  {
+    "original": "african-ai-policy/drafts/Paper2_HIMSS_poster_extended_abstract.md",
+    "organized": "african-ai-policy/papers/paper-2-policy-connectivity/conference/Paper2_HIMSS_poster_extended_abstract.md",
+    "sha256": {
+      ".": "2afd7415a5fb92083b975ebcd16dfb41a742cb308e162a2f76adc8e79049b371"
+    }
+  },
+  {
+    "original": "african-ai-policy/drafts/Paper2_HIMSS_poster_proposal.md",
+    "organized": "african-ai-policy/papers/paper-2-policy-connectivity/conference/Paper2_HIMSS_poster_proposal.md",
+    "sha256": {
+      ".": "3a8a8778a61c6d1a887d7487db6d385ea674eedfdf34d91dd063980205288341"
+    }
+  },
+  {
+    "original": "african-ai-policy/drafts/Paper2_HIMSS_submission_FINAL_2026-10-05.md",
+    "organized": "african-ai-policy/papers/paper-2-policy-connectivity/conference/Paper2_HIMSS_submission_FINAL_2026-10-05.md",
+    "sha256": {
+      ".": "c135bc2c8cf3c01786defb3b774dc153ffc36d1d67e3a492f52ca2367d6b3c03"
+    }
+  },
+  {
+    "original": "african-ai-policy/drafts/Paper2b_eHealth27_abstract_draft_v0.1_2026-10-15.docx",
+    "organized": "african-ai-policy/papers/paper-2b-canada-policy/archive/Paper2b_eHealth27_abstract_draft_v0.1_2026-10-15.docx",
+    "sha256": {
+      ".": "5cb0548072cae32be976076b87da0324ae070fb38713f0326439e44119502204"
+    }
+  },
+  {
+    "original": "african-ai-policy/drafts/Paper2b_eHealth27_abstract_draft_v0.2_2026-10-15.docx",
+    "organized": "african-ai-policy/papers/paper-2b-canada-policy/archive/Paper2b_eHealth27_abstract_draft_v0.2_2026-10-15.docx",
+    "sha256": {
+      ".": "b7bde2ca375b36d6deea52988c786dbf1264f49a601634be7db472bf5dcf1c60"
+    }
+  },
+  {
+    "original": "african-ai-policy/drafts/Paper2b_eHealth27_abstract_draft_v0.3_2026-10-15.docx",
+    "organized": "african-ai-policy/papers/paper-2b-canada-policy/conference/Paper2b_eHealth27_abstract_draft_v0.3_2026-10-15.docx",
+    "sha256": {
+      ".": "8cae9e01e663871a93f2c9c8b7424899b19ff720a03e60920d9a158a8d127e68"
+    }
+  },
+  {
+    "original": "african-ai-policy/drafts/Paper2b_number_verification_2026-10-15.md",
+    "organized": "african-ai-policy/papers/paper-2b-canada-policy/notes/Paper2b_number_verification_2026-10-15.md",
+    "sha256": {
+      ".": "f6a7e208a2f9ef13e784f69ca70c320d88f2f35c06e294f748c8dc8ed6c64dbf"
+    }
+  },
+  {
+    "original": "african-ai-policy/drafts/Paper2b_reframe_assessment_2026-10-15.md",
+    "organized": "african-ai-policy/papers/paper-2b-canada-policy/notes/Paper2b_reframe_assessment_2026-10-15.md",
+    "sha256": {
+      ".": "b7d00bc54fc7394716f5c029bf72f2f6bd29556b9e6c95c942dcdc47b7e8e410"
+    }
+  },
+  {
+    "original": "african-ai-policy/drafts/Paper2b_v0.2_number_verification_2026-10-15.md",
+    "organized": "african-ai-policy/papers/paper-2b-canada-policy/archive/Paper2b_v0.2_number_verification_2026-10-15.md",
+    "sha256": {
+      ".": "844eda65ffca14aa7191225cfe5a91ff1ea2319782a0456e27e74835f8eac233"
+    }
+  },
+  {
+    "original": "african-ai-policy/drafts/Paper2b_v0.3_number_verification_2026-10-15.md",
+    "organized": "african-ai-policy/papers/paper-2b-canada-policy/notes/Paper2b_v0.3_number_verification_2026-10-15.md",
+    "sha256": {
+      ".": "f08e56291dff4c3509f56d520e00f5b9b997cb28769e89e2d47fc009cc3d0795"
+    }
+  },
+  {
+    "original": "african-ai-policy/drafts/Paper3_protocol_v0.1_2026-10-05.md",
+    "organized": "african-ai-policy/papers/paper-3-workforce-capacity/protocol/Paper3_protocol_v0.1_2026-10-05.md",
+    "sha256": {
+      ".": "e79589351656170c4d789df8ebe4d60565a7c41688e16d7020a0a564436b6e36"
+    }
+  },
+  {
+    "original": "african-ai-policy/drafts/Paper3_two_system_design_addendum_2026-10-15.md",
+    "organized": "african-ai-policy/papers/paper-3-workforce-capacity/protocol/Paper3_two_system_design_addendum_2026-10-15.md",
+    "sha256": {
+      ".": "53b13fab972cc2282194c09d1bd02016fd660f67766246c1f2c4339c776ce242"
+    }
+  },
+  {
+    "original": "african-ai-policy/drafts/Paper3_vs_hi-africa-partnerships_relationship_2026-10-15.md",
+    "organized": "african-ai-policy/papers/paper-3-workforce-capacity/notes/Paper3_vs_hi-africa-partnerships_relationship_2026-10-15.md",
+    "sha256": {
+      ".": "4ce72b8a5a60dfbf423a0729247694d8c7502987859b1e301a8b5ceecb583328"
+    }
+  },
+  {
+    "original": "african-ai-policy/drafts/Paper_series_architecture_review.md",
+    "organized": "african-ai-policy/strategy/programme/Paper_series_architecture_review.md",
+    "sha256": {
+      ".": "394110532848ce4a5ff8898d9daef0aed31a55fb01cec130fe91625e61fc7aa8"
+    }
+  },
+  {
+    "original": "african-ai-policy/drafts/Paper_series_status_checkin_2026-10-05.md",
+    "organized": "african-ai-policy/strategy/programme/Paper_series_status_checkin_2026-10-05.md",
+    "sha256": {
+      ".": "36641255adfaab4f1000d9484497f1124bf40dbeff56bc0cd253c04d4b810f8a"
+    }
+  },
+  {
+    "original": "african-ai-policy/drafts/Policy_vs_capital_divergence_2026-10-06.md",
+    "organized": "african-ai-policy/papers/paper-4-policy-capital/scoping/Policy_vs_capital_divergence_2026-10-06.md",
+    "sha256": {
+      ".": "a3d3346282f341d0cebae3354580a30878600ad488fbf2df3a50b8a2bfd17bf5"
+    }
+  },
+  {
+    "original": "african-ai-policy/drafts/Research_program_strategy_2026-10-06.md",
+    "organized": "african-ai-policy/strategy/programme/Research_program_strategy_2026-10-06.md",
+    "sha256": {
+      ".": "30b8bf6de9d8a9354ebad8bad807a210835a50f0317707c4c35dcd285ee24ef7"
+    }
+  },
+  {
+    "original": "african-ai-policy/drafts/Rhetoric-Readiness_BMJGH_v3.0-for coauthor feedback-14-Oct-26",
+    "organized": "african-ai-policy/papers/paper-1-rhetoric-readiness/manuscript/Rhetoric-Readiness_BMJGH_v3.0-for coauthor feedback-14-Oct-26",
+    "sha256": {}
+  },
+  {
+    "original": "african-ai-policy/drafts/Rhetoric-Readiness_BMJGH_v3.0-for coauthor feedback-14-Oct-26.docx",
+    "organized": "african-ai-policy/papers/paper-1-rhetoric-readiness/manuscript/Rhetoric-Readiness_BMJGH_v3.0-for coauthor feedback-14-Oct-26.docx",
+    "sha256": {
+      ".": "4a99a35b3fbff4df1e11e56bb077d6a9ee82e08bb180537efdd2f16a8339501a"
+    }
+  },
+  {
+    "original": "african-ai-policy/drafts/Rhetoric-Readiness_BMJGH_v3.0-for coauthor feedback-14-Oct-26.pdf",
+    "organized": "african-ai-policy/papers/paper-1-rhetoric-readiness/manuscript/Rhetoric-Readiness_BMJGH_v3.0-for coauthor feedback-14-Oct-26.pdf",
+    "sha256": {
+      ".": "0be9e9b6252f7ba2d5119a510fc6be83f42b04454a71c7863b2d69b1b63104c6"
+    }
+  },
+  {
+    "original": "african-ai-policy/drafts/Year1_Roadmap_Research_Scholarship_2026-10-07.docx",
+    "organized": "african-ai-policy/strategy/programme/Year1_Roadmap_Research_Scholarship_2026-10-07.docx",
+    "sha256": {
+      ".": "8f8e1e5fb73d01d4dd91449b6074fa65ca2a8b96eca328373031d95cfc9b8f77"
+    }
+  }
+]

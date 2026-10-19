@@ -5,6 +5,11 @@ domains of the **WHO Global Strategy on Digital Health** (2020–2027), using
 multilingual sentence-transformer embeddings, and visualises the result as
 heatmaps.
 
+> **Plan of record:** see [`ROADMAP.md`](ROADMAP.md) for the 3-paper research
+> programme (rhetoric/readiness → AI vs digital-health connectivity → workforce),
+> corpus definitions, targets, and the open reconciliation items. Repository
+> outputs are authoritative over the manuscript `.docx`.
+
 For each country, the strategy text is chunked into passages, every passage is
 embedded and compared (cosine similarity) against each WHO competency-domain
 description, and the passage scores are aggregated into one score per
@@ -35,6 +40,39 @@ example:** its horizontal *National AI Policy* ranks last in the primary track
 (0.43 — it barely mentions health), while its dedicated *Digital Health Strategy*
 scores 0.61 in the secondary track. Same country, two documents, two correct
 answers.
+
+---
+
+## Environment (pyenv + uv)
+
+The interpreter is pinned to **pyenv `3.12.0`** via `.python-version`. The project
+venv `.venv/` was created by **uv** on top of that interpreter
+(`.venv/pyvenv.cfg` → `home = ~/.pyenv/versions/3.12.0/bin`).
+
+**Use the shim** so the wrong interpreter can't be picked by accident:
+
+```bash
+./run.sh run_pipeline.py         # primary AI-strategy analysis
+./run.sh analyze_connectivity.py # Paper-2 connectivity (AI vs digital-health)
+./run.sh -m pytest -q            # tests
+```
+
+`run.sh` just `exec`s `.venv/bin/python "$@"` (verified: interpreter resolves to
+`.venv/bin/python`, sentence-transformers 5.6.0 / torch 2.13.0).
+
+> **Why this matters.** The ambient `python3` on this Mac is 3.9 *without*
+> `sentence-transformers`. `src/models.py` silently falls back to a **TF-IDF**
+> backend in that case, which produces *lexical* scores that are **not
+> comparable** with the semantic (sentence-transformer) matrix. Any cross-set
+> comparison run under the wrong interpreter is invalid. `analyze_connectivity.py`
+> hard-aborts on the fallback for exactly this reason.
+
+Rebuild the venv if needed:
+
+```bash
+uv venv --python 3.12.0 .venv
+uv pip install --python .venv/bin/python -r requirements.txt
+```
 
 ---
 
@@ -160,6 +198,10 @@ african-ai-policy/
 │   ├── who_strategy/            competencies.csv (9 domains) · who_gsdh.txt · WHO PDFs
 │   ├── national_strategies/     <country>_ai.txt + source AI-strategy PDFs   (PRIMARY)
 │   ├── digital_health_strategies/ <country>_dh.txt + DH/eHealth PDFs         (SECONDARY)
+│   ├── AU_strategy/             comparator only: the AU Digital Transformation
+│   │                            Strategy 2020-2030 PDF + extracted text. The
+│   │                            continental AI strategy itself lives in
+│   │                            national_strategies/ as the regional anchor.
 │   └── _rejected/               wrong-genre PDFs kept for the record
 ├── src/
 │   ├── config.py         paths, model name, chunk/aggregation params, country map
@@ -184,10 +226,15 @@ african-ai-policy/
 
 ## Data coverage (current)
 
-**Primary — 12 national AI strategies:** Benin, Côte d'Ivoire, Egypt, Ghana,
-Kenya, Mauritius, Morocco, Nigeria, Rwanda, Senegal, South Africa, Zimbabwe.
+**Primary — 14 national AI strategies + the AU anchor:** Benin, Côte d'Ivoire,
+Egypt, Ethiopia, Ghana, Kenya, Mauritius, Morocco, Nigeria, Rwanda, Senegal,
+South Africa, Tanzania and Zimbabwe, plus the African Union Continental AI
+Strategy as the continental regional anchor (15 entries in total).
 **Missing:** Algeria (no published national AI strategy located — the file on
-hand was a health policy), Tunisia (document not yet sourced).
+hand was a health policy), Namibia and Tunisia (documents not yet sourced).
+**Review but excluded:** Uganda — its Digital Transformation Roadmap calls for a
+national AI strategy to be developed, so it does not meet the corpus definition;
+retained in `data/inbox/` for the record.
 
 **Secondary — 3 digital-health strategies:** Rwanda, Namibia, Mauritius.
 

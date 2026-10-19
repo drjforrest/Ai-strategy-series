@@ -1,0 +1,19 @@
+country,competency_id,similarity_score
+Canada AI strategy,C1,0.4328504800796509
+Canada AI strategy,C2,0.4300004541873932
+Canada AI strategy,C3,0.44344356656074524
+Canada AI strategy,C4,0.4804503917694092
+Canada AI strategy,C5,0.4416053593158722
+Canada AI strategy,C6,0.4918348491191864
+Canada AI strategy,C7,0.4387948215007782
+Canada AI strategy,C8,0.43989112973213196
+Canada AI strategy,C9,0.47302481532096863
+Canada health-data strategy,C1,0.6251832246780396
+Canada health-data strategy,C2,0.44263628125190735
+Canada health-data strategy,C3,0.6325067281723022
+Canada health-data strategy,C4,0.6045492887496948
+Canada health-data strategy,C5,0.6680272221565247
+Canada health-data strategy,C6,0.5697970986366272
+Canada health-data strategy,C7,0.5766828656196594
+Canada health-data strategy,C8,0.5770350098609924
+Canada health-data strategy,C9,0.6601427793502808
