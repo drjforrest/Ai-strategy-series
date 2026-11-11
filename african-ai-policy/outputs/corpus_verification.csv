@@ -1,0 +1,36 @@
+country,file,in_corpus,words,ai_density,ai_first_third,ai_mid_third,ai_last_third,ai_min_third,french_signal_per_1k,preview
+Benin,benin_ai.txt,True,15342,19.68,27.96,20.53,10.56,10.56,3.2,The process of developing Benin’s National Artificial Intelligence and Big Data Strategy (
+Côte d'Ivoire,cote_divoire_ai.txt,True,15189,30.75,26.07,28.24,37.92,26.07,127.9,À L’HORIZON 2030  © COPYRIGHT MINISTÈRE DE LA TRANSITION NUMÉRIQUE ET DE LA DIGITALISATION
+Egypt,egypt_ai.txt,True,24893,37.52,41.7,32.3,38.56,32.3,0.0,E G Y P T Egypt National Artificial Intelligence Strategy Second Edition (2025-2030)  Stat
+Ethiopia,ethiopia_ai.txt,True,8442,37.55,44.07,35.89,32.69,32.69,0.0,National Artificial Intelligence Policy June 2024  Federal Democratic Republic of Ethiopia
+Ghana,ghana_ai.txt,True,19536,45.97,49.29,44.69,43.92,43.92,0.0,REPUBLIC OF GHANA 2025- NATIONAL ARTIFICIAL 2035 INTELLIGENCE STRATEGY To harness AI for i
+Kenya,kenya_ai.txt,True,24830,44.58,34.8,45.19,53.76,34.8,0.0,KENYA ARTIFICIAL INTELLIGENCE STRATEGY 2025-2030 March 2025  KENYA ARTIFICIAL INTELLIGENCE
+Lesotho,lesotho_ai.txt,True,15205,45.12,44.4,45.78,45.18,44.4,0.0,A I P RTIFICIAL NTELLIGENCE OLICY I P AND MPLEMENTATION LAN (S D ) ECOND RAFT  TABLE OF CO
+Mauritania,mauritania_ai.txt,True,10839,39.03,44.84,22.7,49.54,22.7,0.4,Islamic Republic of Mauritania Honor - Fraternity - Justice THE MINISTRY OF DIGITAL TRANSF
+Mauritius,mauritius_ai.txt,True,16191,38.73,33.72,44.28,38.17,33.72,0.0,AI FOR MAURITIUS AIM A NATIONAL VISION FOR RESPONSIBLE AI AND REGIONAL LEADERSHIP  AI FOR 
+Nigeria,nigeria_ai.txt,True,22619,46.95,45.5,51.72,43.63,43.63,0.0,"S E P T E M B E R , 2 0 2 5  NATIONAL ARTIFICIAL INTELLIGENCE STRATEGY Acknowledgements Th"
+Rwanda,rwanda_ai.txt,True,4646,46.28,56.85,46.48,35.51,35.51,0.0,Republic of Rwanda Ministry of ICT and Innovation The National AI Policy To leverage AI to
+Senegal,senegal_ai.txt,True,44363,30.88,34.08,27.52,31.04,27.52,86.1,1 SSTTRRAATTÉÉGGIIEE DDEE DDÉÉVVEELLOOPPPPEEMMEENNTT DDEE LL’’IINNTTEELLLLIIGGEENNCCEE AAR
+South Africa,south_africa_ai.txt,True,23522,36.39,36.73,33.54,38.9,33.54,0.0,"STAATSKOERANT,10 ApRil 2026 No. 54477 3 G n • a K eneral otices lGemene ennisGewinGs DEPAR"
+Tanzania,tanzania_ai.txt,True,19598,41.38,38.73,45.61,39.8,38.73,0.0,THE UNITED REPUBLIC OF TANZANIA MINISTRY OF COMMUNICATION AND INFORMATION TECHNOLOGY THE T
+Zambia,zambia_ai.txt,True,12640,41.3,41.78,47.71,34.41,34.41,0.0,Republic of Zambia Ministry of Technology and Science NATIONAL ARTIFICIAL INTELLIGENCE STR
+Zimbabwe,zimbabwe_ai.txt,True,20748,35.43,38.17,41.21,26.89,26.89,0.0,Zimbabwe National Artificial Intelligence (AI) Strategy 2026 – 2030 DISTRIBUTED BY VERITAS
+African Union,african_union_ai.txt,True,22139,44.72,44.45,44.85,44.85,44.45,0.0,CONTINENTAL ARTIFICIAL INTELLIGENCE STRATEGY Harnessing AI for Africa’s Development and Pr
+excluded:ethiopia_ai,ethiopia_ai.txt,False,81495,1.95,0.55,0.0,5.3,0.0,0.0,== source: Digital Ethiopia 2025 Strategy_EN.pdf ==  A DIGITAL STRATEGY FOR ETHIOPIA INCLU
+excluded:morocco_ai,morocco_ai.txt,False,13307,26.38,23.22,29.76,26.15,23.22,2.8,1 >>  EXECUTIVE SUMMARY 06 Introduction : AI in Morocco: A Major Strategic Turning Point U
+other:botswana_dh,botswana_dh.txt,False,10864,0.55,0.83,0.83,0.0,0.0,0.0,UL REPUBLIC OF BOTSWANA A healthy and productive nation that enjoys the benefits of high q
+other:burundi_dh,burundi_dh.txt,False,30602,0.0,0.0,0.0,0.0,0.0,94.9,Transformation digitale du système de santé du Burundi MINISTERE DE LA SANTE PUBLIQUE ET D
+other:drc_dh,drc_dh.txt,False,18613,0.16,0.16,0.16,0.16,0.16,85.4,"See discussions, stats, and author profiles for this publication at: https://www.researchg"
+other:ethiopia_dh,ethiopia_dh.txt,False,16612,1.2,1.99,1.08,0.54,0.54,0.0,DDIIGGIITTAALL HHEEAALLTTHH BBLLUUEEPPRRIINNTT August 2021  DIGITAL HEALTH BLUEPRINT  DIGI
+other:ghana_dh,ghana_dh.txt,False,13761,0.15,0.22,0.22,0.0,0.0,0.0,GHANA HEALTH SERVICE POLICY AND STRATEGY ON DIGITAL HEALTH 2023 - 2027 YOUR HEALTH OUR CON
+other:kenya_dh,kenya_dh.txt,False,14210,0.7,1.06,0.63,0.42,0.42,0.0,DHA Strategic Plan 2025 - 2028 HEALTHCARE MEETS INNOVATION | DIGITAL HEALTH AGENCY STRATEG
+other:mauritius_dh,mauritius_dh.txt,False,3613,1.11,0.83,0.0,2.49,0.0,0.6,February 2025 A Roadmap for Digital Health Transformation in Mauritius The United Nations 
+other:namibia_dh,namibia_dh.txt,False,29800,0.34,0.5,0.2,0.3,0.2,0.0,REPUBLIC OF NAMIBIA Ministry of Health & Social Services NAtIONAL eHEALtH StRAtEgy 2021-20
+other:niger_dh,niger_dh.txt,False,34675,0.06,0.0,0.0,0.17,0.0,83.0,REPUBLIQUE DU NIGER Fraternité – Travail - Progrès MINISTERE DE LA SANTE PUBLIQUE Stratégi
+other:nigeria_dh,nigeria_dh.txt,False,17029,0.7,0.53,0.18,1.41,0.18,0.0,The Nigeria Digital Health Architecture (NDHA) for an Interoperable Digital Health Ecosyst
+other:rwanda_dh,rwanda_dh.txt,False,14669,0.14,0.41,0.0,0.0,0.0,0.0,THE NATIONAL DIGITAL HEALTH STRATEGIC PLAN 2018-2023 June 2018  MinistryofHealth_ eHealthU
+other:senegal_dh,senegal_dh.txt,False,18225,0.16,0.33,0.16,0.0,0.0,85.4,REPUBLIQUE DU SENEGAL Un Peuple – Un But – Une Foi Ministère de la Santé et de l’Action so
+other:sierra_leone_dh,sierra_leone_dh.txt,False,16842,0.12,0.18,0.18,0.0,0.0,0.0,Ministry of Health and Sanitation in collaboration with Ministry of Information and Commun
+other:south_africa_dh,south_africa_dh.txt,False,11703,0.51,1.03,0.26,0.26,0.26,0.0,National Digital Health Strategy for South Africa 2019 - 2024  National Digital Health Str
+other:uganda_dh,uganda_dh.txt,False,34080,1.64,2.02,1.23,1.67,1.23,0.0,DIGITAL TRANSFORMATION ROADMAP 2023/2024 - 2027/2028 DIGITAL TRANSFORMATION ROADMAP 2023/2
+other:zambia_dh,zambia_dh.txt,False,10047,0.1,0.0,0.0,0.3,0.0,0.0,REPUBLIC OF ZAMBIA MINISTRY OF HEALTH  FOREWORD The Ministry of Health today recognises th

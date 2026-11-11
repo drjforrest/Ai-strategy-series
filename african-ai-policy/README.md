@@ -155,6 +155,16 @@ sharpen the mapping. Source text: WHO Global Strategy on Digital Health 2020–2
 
 ## Providing the source data
 
+The source documents are **not distributed with this repository**: they are
+third-party publications under differing licences. `data/` is untracked, and the
+extracted `.txt` corpora and passage tables are withheld on the same grounds
+because they reproduce those documents verbatim.
+
+Obtain the documents as described in [../sources/SOURCES.md](../sources/SOURCES.md)
+and place each one at the path given in `../sources/corpus_manifest.csv`, which
+also records the SHA-256 of the exact file behind the published results. Then run
+`scripts/extract_pdfs.py` to regenerate the `.txt` corpora.
+
 ### Embedding model & languages
 
 The default model is `paraphrase-multilingual-MiniLM-L12-v2` because the corpus

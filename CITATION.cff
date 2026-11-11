@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: If you use this software or its outputs, please cite it as below.
+title: "AI strategy research programme: analysis code for national AI strategies, digital health policy and health informatics curricula"
+abstract: >-
+  Reproducible analysis code for a programme of studies measuring how national
+  artificial intelligence strategies and digital health policy engage
+  digital-health and health-informatics competency frameworks, using
+  embedding-based alignment of policy and curriculum text against normative
+  reference frameworks.
+type: software
+authors:
+  - family-names: Forrest
+    given-names: Jamie I.
+    affiliation: Northeastern University
+repository-code: "https://github.com/drjforrest/Ai-strategy-series"
+license: MIT
+keywords:
+  - health informatics
+  - digital health policy
+  - artificial intelligence strategy
+  - competency frameworks
+  - natural language processing

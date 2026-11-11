@@ -8,11 +8,9 @@ env/
 .pytest_cache/
 .ruff_cache/
 
-# Generated outputs (re-created by run_pipeline.py)
+# Generated outputs are tracked on purpose; only binary caches are ignored
 outputs/embeddings/
 outputs/*.npy
-outputs/*.csv
-outputs/heatmaps/*.png
 
 # Model / HF caches
 .cache/
@@ -25,7 +23,9 @@ outputs/heatmaps/*.png
 .DS_Store
 excalidraw.log
 
-# Secrets and census search artefacts
+# Secrets
 .env
 .env.*
-data/inbox/census_pdfs/
+
+# Source documents are not redistributed; see ../sources/SOURCES.md
+data/

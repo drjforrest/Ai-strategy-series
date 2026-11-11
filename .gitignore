@@ -1,0 +1,87 @@
+# Operating system and editors
+.DS_Store
+~$*
+*.swp
+.idea/
+.vscode/
+.claude/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Node
+node_modules/
+
+# Model, embedding and figure caches
+*.npy
+*.pt
+.cache/
+
+# Source documents and derived full text are not redistributed; see sources/SOURCES.md
+african-ai-policy/data/
+digital-health-canada/docs/
+digital-health-canada/_deck_backups/
+digital-health-canada/_deck_out/
+shared-resources/
+*.pdf
+*.xlsx
+
+# Unpublished manuscripts, drafts and decks
+*.docx
+*.pptx
+
+# Snapshot backups and scratch
+african-ai-policy/_backup/
+Trash/
+
+# Extracted passage text reproduces the source corpus verbatim
+**/strategy_chunks.csv
+**/*_chunks.csv
+**/canon_raw.tsv
+
+# Saved web pages and run logs
+*.html
+*.log
+excalidraw.log
+
+# Stray export of a manuscript
+Canadian_health_informatics_programmes_v1.2
+
+# Rendered page images and extracted text of unpublished manuscripts
+**/manuscript/_renders/
+**/manuscript/source.txt
+**/manuscript/edit-audit.json
+drafts/Rhetoric-Readiness_*
+african-ai-policy/drafts/Rhetoric-Readiness_*
+
+# Extracted raw text of third-party comparator documents
+**/_verify/*_raw.txt
+
+# Symlink to a folder that now lives outside this repository
+african-ai-policy/papers/paper-2b-canada-policy/analysis
+
+# Manuscript, abstract and conference-submission prose.
+# Methods descriptions, protocols, design memos and number-verification notes are kept.
+**/*_BMJGH_manuscript_*.md
+**/*_reconceptualised_abstract.md
+**/*_self_peer_review_*.md
+**/Paper2_HIMSS_*.md
+**/himss_abstract.md
+**/genre_contrast_draft.md
+hi-africa-partnerships/HI_Africa_framework_paper_skeleton.md
+
+# Pre-rewrite history backup (move or delete once the rewrite is verified)
+_prerewrite-backup/
